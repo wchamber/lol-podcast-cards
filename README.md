@@ -8,7 +8,12 @@ A small, unofficial card-gallery website. Plain HTML, one stylesheet, and a Pyth
 python3 scripts/build_site.py
 ```
 
-The generated website lives in `docs/`. Commit the source and generated files together. In **Settings → Pages**, select **Deploy from a branch**, **main**, and **/docs**. Links are relative, so the site works under a GitHub Pages repository URL without configuration.
+The generated website lives in `docs/`. Commit the source and generated files together. In **Settings → Pages**, use **Deploy from a branch** and **main**. Both folder options work:
+
+- **/(root)**: the repository homepage redirects to the generated archive in `docs/`.
+- **/docs**: the generated archive is served directly at the site homepage.
+
+Links are relative, so the site works under a GitHub Pages repository URL without configuration. Keep the root `index.html` redirect and `.nojekyll` file when publishing future updates.
 
 ## Add an episode
 
@@ -30,7 +35,7 @@ Add `data/episodes/your-slug.json`, then build again:
 }
 ```
 
-The card array is in first-mention order. A stable slug becomes `/episodes/your-slug/`; the build updates the archive and previous/next navigation automatically. Feed dates are from the early-access feed, and may precede public release dates.
+The card array is in first-mention order. A stable slug becomes `/episodes/your-slug/` within the generated site; the build updates the archive and previous/next navigation automatically. Feed dates are from the early-access feed, and may precede public release dates.
 
 ## Style all episodes in one place
 
