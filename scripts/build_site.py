@@ -41,6 +41,9 @@ def load_episodes():
             url(card["scryfall_url"], "scryfall.com")
             if card["image_url"] is not None:
                 url(card["image_url"], "cards.scryfall.io")
+                image_path = urlparse(card["image_url"]).path
+                if not image_path.startswith("/grid/") or not image_path.endswith(".webp"):
+                    raise ValueError("Gallery images must use Scryfall grid WebP URLs")
             seen.add(card["name"])
         episodes.append(episode)
     if not episodes or len({e["slug"] for e in episodes}) != len(episodes):
