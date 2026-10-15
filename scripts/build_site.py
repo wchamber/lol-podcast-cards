@@ -138,7 +138,7 @@ def section_markup(episode):
             markup = ''.join(group)
             if possible:
                 explanation = 'Alternatives for one unclear reference, not separately confirmed mentions.' if len(group) > 1 else 'Uncertain identification, not a confirmed mention.'
-                markup = f'<aside class="possible-matches" aria-label="Possible card matches"><p><strong>Possible match · ~{timecode(mention["approx_seconds"])}</strong><br>{explanation}</p><div class="cards-grid">{markup}</div></aside>'
+                markup = f'<div class="possible-matches" role="group" aria-label="Possible card matches"><p><strong>Possible match · ~{timecode(mention["approx_seconds"])}</strong><br>{explanation}</p><div class="cards-grid">{markup}</div></div>'
             cards.append(markup)
         grid = '<div class="cards-grid">' + ''.join(cards) + '</div>' if cards else '<p class="meta">No named cards in this section.</p>'
         blocks.append(f'<section class="discussion-section" id="{anchor}" aria-labelledby="{anchor}-title"><p class="section-time">Approx. {stamp}</p><h2 id="{anchor}-title">{label}</h2>{grid}</section>')
