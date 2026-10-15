@@ -23,6 +23,18 @@ h1 { font-family:Georgia,"Times New Roman",serif; font-weight:500; line-height:1
 .badge { display:inline-block; background:var(--wash); color:var(--green); border-radius:999px; font-size:11px; padding:3px 9px; margin-top:8px; }
 .meta { margin:0 0 16px; }
 .notice { font-size:14px; color:var(--muted); margin-bottom:28px; }
+.section-index { border-block:1px solid var(--line); padding:20px 0; margin:28px 0 40px; }
+.section-index summary { cursor:pointer; color:var(--green); font-weight:650; font-size:14px; }
+.section-index nav { display:flex; flex-wrap:wrap; gap:10px 24px; padding-top:16px; }
+.section-index a { font-size:14px; }
+.section-index a span { color:var(--muted); font-variant-numeric:tabular-nums; }
+.discussion-section { border-top:1px solid var(--line); padding-top:24px; margin:40px 0; scroll-margin-top:24px; }
+.discussion-section h2 { font-family:Georgia,"Times New Roman",serif; font-size:clamp(24px,3vw,34px); font-weight:500; line-height:1.2; margin:6px 0 20px; }
+.section-time { color:var(--muted); font-size:14px; margin:0; font-variant-numeric:tabular-nums; }
+.possible-matches { grid-column:1/-1; border:1px dashed #a08a53; background:#f1ecdf; border-radius:12px; padding:16px; }
+.possible-matches > p { color:#6a5628; margin:0; font-size:13px; }
+.possible-matches .cards-grid { margin:16px 0 0; grid-template-columns:repeat(auto-fill,minmax(170px,215px)); }
+.possible-label { display:block; color:#735d2b; font-size:11px; font-weight:650; margin-top:4px; }
 .cards-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(190px,1fr)); gap:20px 14px; margin:32px 0; }
 .card-container { margin:0; min-width:0; }
 .card-link { display:block; text-decoration:none; }
@@ -41,5 +53,6 @@ footer p { margin:0 0 8px; }
   .episode-row { grid-template-columns:1fr auto; gap:8px 16px; padding:22px 0; }
   .episode-row .date { grid-column:1/-1; } .episode-row strong { font-size:22px; }
   .cards-grid { grid-template-columns:repeat(2,minmax(0,1fr)); gap:18px 10px; }
+  .possible-matches { padding:12px; } .possible-matches .cards-grid { grid-template-columns:repeat(2,minmax(0,1fr)); }
   .archive-link { font-size:12px; }
 }

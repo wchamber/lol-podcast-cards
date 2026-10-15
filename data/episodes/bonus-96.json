@@ -2,8 +2,18 @@
   "slug": "bonus-96",
   "title": "BONUS Lords Unlimited 96 - Reality Fracture LIVE Draft & Survivor Chaos is GREAT!",
   "feed_date": "2026-10-15",
-  "unresolved_count": 2,
+  "unresolved_count": 0,
   "cards": [
+    {
+      "name": "Ajani Resolute",
+      "image_url": "https://cards.scryfall.io/grid/front/a/5/a5e1a7dd-8c49-4435-935c-bcc78704082b.webp?1788329189",
+      "scryfall_url": "https://scryfall.com/card/fra/195/ajani-resolute?utm_source=api"
+    },
+    {
+      "name": "Ajani Unrelenting",
+      "image_url": "https://cards.scryfall.io/grid/front/b/c/bc3c096f-7f6c-474c-a2c8-75d3e6ddd6f5.webp?1788329317",
+      "scryfall_url": "https://scryfall.com/card/fra/242/ajani-unrelenting?utm_source=api"
+    },
     {
       "name": "Avatar of Burgeoning Echoes",
       "image_url": "https://cards.scryfall.io/grid/front/5/9/5905995b-7a20-4602-a7cc-90aa5089a082.webp?1788878208",
@@ -120,6 +130,11 @@
       "scryfall_url": "https://scryfall.com/card/fra/45/undulating-witness?utm_source=api"
     },
     {
+      "name": "Arni, Humble Scribe",
+      "image_url": "https://cards.scryfall.io/grid/front/8/e/8e3a2239-9348-4639-9318-e9e35b2cf86b.webp?1789568409",
+      "scryfall_url": "https://scryfall.com/card/fra/211/arni-humble-scribe?utm_source=api"
+    },
+    {
       "name": "Face Yourself",
       "image_url": "https://cards.scryfall.io/grid/front/3/c/3ccf8f64-19bd-4fdf-b70a-30a042bacf2f.webp?1789127528",
       "scryfall_url": "https://scryfall.com/card/fra/83/face-yourself?utm_source=api"
@@ -133,11 +148,6 @@
       "name": "Campus Crier",
       "image_url": "https://cards.scryfall.io/grid/front/6/0/6047b14c-91d5-4f8e-af3f-057a541e2546.webp?1788878120",
       "scryfall_url": "https://scryfall.com/card/fra/4/campus-crier?utm_source=api"
-    },
-    {
-      "name": "Arni, Humble Scribe",
-      "image_url": "https://cards.scryfall.io/grid/front/8/e/8e3a2239-9348-4639-9318-e9e35b2cf86b.webp?1789568409",
-      "scryfall_url": "https://scryfall.com/card/fra/211/arni-humble-scribe?utm_source=api"
     },
     {
       "name": "Theorix Metamage // Omit Variables",
@@ -188,6 +198,11 @@
       "name": "Konstrari Charm",
       "image_url": "https://cards.scryfall.io/grid/front/7/d/7d29dfa1-9582-47bc-8f42-62b611bdcc4e.webp?1789127645",
       "scryfall_url": "https://scryfall.com/card/fra/138/konstrari-charm?utm_source=api"
+    },
+    {
+      "name": "The Theorist, Jace Beleren",
+      "image_url": "https://cards.scryfall.io/grid/front/2/0/20bb8c55-4b0b-425f-8201-b54fa2fdde86.webp?1788329228",
+      "scryfall_url": "https://scryfall.com/card/fra/43/the-theorist-jace-beleren?utm_source=api"
     },
     {
       "name": "Jace, Reality Sculptor",
@@ -270,14 +285,1040 @@
       "scryfall_url": "https://scryfall.com/card/fra/171/keeper-of-the-quiet-hour?utm_source=api"
     },
     {
-      "name": "Ajani Unrelenting",
-      "image_url": "https://cards.scryfall.io/grid/front/b/c/bc3c096f-7f6c-474c-a2c8-75d3e6ddd6f5.webp?1788329317",
-      "scryfall_url": "https://scryfall.com/card/fra/242/ajani-unrelenting?utm_source=api"
-    },
-    {
       "name": "Ghalta the Unstoppable",
       "image_url": "https://cards.scryfall.io/grid/front/1/d/1d535b5f-c916-4f16-89a7-9477578826d2.webp?1788878290",
       "scryfall_url": "https://scryfall.com/card/fra/260/ghalta-the-unstoppable?utm_source=api"
+    }
+  ],
+  "sections": [
+    {
+      "title": "Introduction and Arena ladder rank",
+      "start_seconds": 0,
+      "end_seconds": 75,
+      "mentions": [
+        {
+          "names": [
+            "Ajani Resolute",
+            "Ajani Unrelenting"
+          ],
+          "approx_seconds": 15,
+          "certainty": "ambiguous"
+        }
+      ]
+    },
+    {
+      "title": "Opening pick: Avatar of Burgeoning Echoes",
+      "start_seconds": 75,
+      "end_seconds": 110,
+      "mentions": [
+        {
+          "names": [
+            "Avatar of Burgeoning Echoes"
+          ],
+          "approx_seconds": 80,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Gallia, Tragic Host"
+          ],
+          "approx_seconds": 92,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Multiply by Zero"
+          ],
+          "approx_seconds": 93,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Tinybones, Pocket Nuisance"
+          ],
+          "approx_seconds": 95,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Room of Refuge"
+          ],
+          "approx_seconds": 97,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Primal Witchstalker over Memory Trap",
+      "start_seconds": 110,
+      "end_seconds": 172,
+      "mentions": [
+        {
+          "names": [
+            "Prudent Fateseer // Peer Review"
+          ],
+          "approx_seconds": 115,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Primal Witchstalker"
+          ],
+          "approx_seconds": 118,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Memory Trap"
+          ],
+          "approx_seconds": 120,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Avatar of Burgeoning Echoes"
+          ],
+          "approx_seconds": 133,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Aerid Konstrari"
+          ],
+          "approx_seconds": 138,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Pia, Determined Rebuilder"
+          ],
+          "approx_seconds": 164,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Hunter's Axe and Way of the Warlord",
+      "start_seconds": 172,
+      "end_seconds": 223,
+      "mentions": [
+        {
+          "names": [
+            "Hunter's Axe"
+          ],
+          "approx_seconds": 178,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Way of the Warlord"
+          ],
+          "approx_seconds": 184,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Surgical Precision"
+          ],
+          "approx_seconds": 204,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Oblivion Ring"
+          ],
+          "approx_seconds": 208,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Fulminous Forte and early red removal",
+      "start_seconds": 223,
+      "end_seconds": 272,
+      "mentions": [
+        {
+          "names": [
+            "Fulminous Forte"
+          ],
+          "approx_seconds": 226,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Surgical Precision"
+          ],
+          "approx_seconds": 234,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Countersculpt"
+          ],
+          "approx_seconds": 247,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "No Admittance"
+          ],
+          "approx_seconds": 256,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Avatar of Burgeoning Echoes"
+          ],
+          "approx_seconds": 261,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Fateshaper Aspirant"
+          ],
+          "approx_seconds": 264,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Inspired Tethermage and Temur direction",
+      "start_seconds": 272,
+      "end_seconds": 308,
+      "mentions": [
+        {
+          "names": [
+            "Murmuring Volume"
+          ],
+          "approx_seconds": 277,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Konstrari Improviser // Soul Tether"
+          ],
+          "approx_seconds": 279,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Inspired Tethermage"
+          ],
+          "approx_seconds": 281,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Avatar of Burgeoning Echoes"
+          ],
+          "approx_seconds": 288,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Face Yourself and Clash of Elements",
+      "start_seconds": 308,
+      "end_seconds": 375,
+      "mentions": [
+        {
+          "names": [
+            "Clash of Elements"
+          ],
+          "approx_seconds": 310,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Undulating Witness"
+          ],
+          "approx_seconds": 313,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Arni, Humble Scribe"
+          ],
+          "approx_seconds": 325,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Face Yourself"
+          ],
+          "approx_seconds": 351,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Something Worth Saving"
+          ],
+          "approx_seconds": 361,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Campus Crier and fixing lands",
+      "start_seconds": 375,
+      "end_seconds": 405,
+      "mentions": [
+        {
+          "names": [
+            "Campus Crier"
+          ],
+          "approx_seconds": 377,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Primal Witchstalker"
+          ],
+          "approx_seconds": 381,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Arni, Humble Scribe"
+          ],
+          "approx_seconds": 387,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Green Pia debate and Marwyn Clearcutter",
+      "start_seconds": 405,
+      "end_seconds": 457,
+      "mentions": [
+        {
+          "names": [
+            "Theorix Metamage // Omit Variables"
+          ],
+          "approx_seconds": 408,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Pia, Aether Ascetic"
+          ],
+          "approx_seconds": 412,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Memory Trap"
+          ],
+          "approx_seconds": 432,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Fateshaper Aspirant"
+          ],
+          "approx_seconds": 442,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Marwyn, the Clearcutter"
+          ],
+          "approx_seconds": 447,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Heartwood Crafter and mid-pack playables",
+      "start_seconds": 457,
+      "end_seconds": 492,
+      "mentions": [
+        {
+          "names": [
+            "Inspired Tethermage"
+          ],
+          "approx_seconds": 459,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Recursive Recruitment"
+          ],
+          "approx_seconds": 461,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Heartwood Crafter // Soul Tether"
+          ],
+          "approx_seconds": 463,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Fulminous Forte"
+          ],
+          "approx_seconds": 465,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Face Yourself"
+          ],
+          "approx_seconds": 479,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Twinned Vision over Arcane Amphisbaena",
+      "start_seconds": 492,
+      "end_seconds": 542,
+      "mentions": [
+        {
+          "names": [
+            "Twinned Vision"
+          ],
+          "approx_seconds": 494,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Something Worth Saving"
+          ],
+          "approx_seconds": 496,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Arcane Amphisbaena"
+          ],
+          "approx_seconds": 498,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Face Yourself"
+          ],
+          "approx_seconds": 512,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Late pack picks, Green Marwyn, and wheeling Tethermage",
+      "start_seconds": 542,
+      "end_seconds": 698,
+      "mentions": [
+        {
+          "names": [
+            "Arcane Amphisbaena"
+          ],
+          "approx_seconds": 546,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Wrath of the Bloodmane"
+          ],
+          "approx_seconds": 548,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Marwyn, the Preserver"
+          ],
+          "approx_seconds": 566,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Clash of Elements"
+          ],
+          "approx_seconds": 575,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Primal Witchstalker"
+          ],
+          "approx_seconds": 577,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Avatar of Burgeoning Echoes"
+          ],
+          "approx_seconds": 591,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Fulminous Forte"
+          ],
+          "approx_seconds": 596,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Way of the Warlord"
+          ],
+          "approx_seconds": 602,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Room of Refuge"
+          ],
+          "approx_seconds": 613,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Inspired Tethermage"
+          ],
+          "approx_seconds": 628,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Something Worth Saving"
+          ],
+          "approx_seconds": 650,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Marwyn, the Clearcutter"
+          ],
+          "approx_seconds": 660,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Face Yourself"
+          ],
+          "approx_seconds": 686,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Konstrari Charm"
+          ],
+          "approx_seconds": 696,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Extended Absence over Jace, Reality Sculptor",
+      "start_seconds": 698,
+      "end_seconds": 745,
+      "mentions": [
+        {
+          "names": [
+            "The Theorist, Jace Beleren"
+          ],
+          "approx_seconds": 700,
+          "certainty": "ambiguous"
+        },
+        {
+          "names": [
+            "Jace, Reality Sculptor"
+          ],
+          "approx_seconds": 707,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Something Worth Saving"
+          ],
+          "approx_seconds": 716,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Extended Absence"
+          ],
+          "approx_seconds": 718,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Clash of Elements"
+          ],
+          "approx_seconds": 738,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Aerid Konstrari and WUBRG Karn",
+      "start_seconds": 745,
+      "end_seconds": 775,
+      "mentions": [
+        {
+          "names": [
+            "Karn, Gilded Guardian"
+          ],
+          "approx_seconds": 748,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Aerid Konstrari"
+          ],
+          "approx_seconds": 753,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Fulminous Forte"
+          ],
+          "approx_seconds": 766,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Vigorbloom Vanguard // Seed Suture"
+          ],
+          "approx_seconds": 768,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Greenhouse Propagator"
+          ],
+          "approx_seconds": 770,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Room of Refuge"
+          ],
+          "approx_seconds": 772,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Violent Echoes",
+      "start_seconds": 775,
+      "end_seconds": 788,
+      "mentions": [
+        {
+          "names": [
+            "Violent Echoes"
+          ],
+          "approx_seconds": 776,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Konstrari Improviser // Soul Tether"
+          ],
+          "approx_seconds": 783,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Titanbones, Towering Heart"
+          ],
+          "approx_seconds": 785,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Evaluating Way of the Mind Sculptor",
+      "start_seconds": 788,
+      "end_seconds": 823,
+      "mentions": [
+        {
+          "names": [
+            "Way of the Paradox"
+          ],
+          "approx_seconds": 790,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Way of the Mind Sculptor"
+          ],
+          "approx_seconds": 793,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Inspired Tethermage"
+          ],
+          "approx_seconds": 813,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Way of the Paradox and Tam",
+      "start_seconds": 823,
+      "end_seconds": 845,
+      "mentions": [
+        {
+          "names": [
+            "Way of the Mind Sculptor"
+          ],
+          "approx_seconds": 826,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Tam, the Possibility"
+          ],
+          "approx_seconds": 829,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Way of the Paradox"
+          ],
+          "approx_seconds": 837,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Kiora of Salt and Sand"
+          ],
+          "approx_seconds": 839,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Way of the Warlord and Living Library",
+      "start_seconds": 845,
+      "end_seconds": 866,
+      "mentions": [
+        {
+          "names": [
+            "Way of the Warlord"
+          ],
+          "approx_seconds": 846,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Kiora of Salt and Sand"
+          ],
+          "approx_seconds": 848,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Living Library"
+          ],
+          "approx_seconds": 855,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Inspired Tethermage"
+          ],
+          "approx_seconds": 859,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Sureshot Sower and Saheeli",
+      "start_seconds": 866,
+      "end_seconds": 897,
+      "mentions": [
+        {
+          "names": [
+            "Sureshot Sower"
+          ],
+          "approx_seconds": 868,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Primal Witchstalker"
+          ],
+          "approx_seconds": 874,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Extended Absence"
+          ],
+          "approx_seconds": 876,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Saheeli, Jewel of Avishkar"
+          ],
+          "approx_seconds": 890,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Wheel picks and Way of the Cryomancer",
+      "start_seconds": 897,
+      "end_seconds": 958,
+      "mentions": [
+        {
+          "names": [
+            "Something Worth Saving"
+          ],
+          "approx_seconds": 904,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Murmuring Volume"
+          ],
+          "approx_seconds": 906,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Vigorbloom Vanguard // Seed Suture"
+          ],
+          "approx_seconds": 915,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Way of the Cryomancer"
+          ],
+          "approx_seconds": 921,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Fulminous Forte"
+          ],
+          "approx_seconds": 924,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Extended Absence"
+          ],
+          "approx_seconds": 926,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Violent Echoes"
+          ],
+          "approx_seconds": 927,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Face Yourself"
+          ],
+          "approx_seconds": 929,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Inspired Tethermage"
+          ],
+          "approx_seconds": 938,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Kiora of Salt and Sand"
+          ],
+          "approx_seconds": 950,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Deckbuilding, splash decisions, and cuts",
+      "start_seconds": 958,
+      "end_seconds": 1250,
+      "mentions": [
+        {
+          "names": [
+            "Twinned Vision"
+          ],
+          "approx_seconds": 961,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Something Worth Saving"
+          ],
+          "approx_seconds": 963,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Sureshot Sower"
+          ],
+          "approx_seconds": 971,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Primal Witchstalker"
+          ],
+          "approx_seconds": 993,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Extended Absence"
+          ],
+          "approx_seconds": 995,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Fulminous Forte"
+          ],
+          "approx_seconds": 1003,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Way of the Warlord"
+          ],
+          "approx_seconds": 1005,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Violent Echoes"
+          ],
+          "approx_seconds": 1007,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Face Yourself"
+          ],
+          "approx_seconds": 1009,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Heartwood Crafter // Soul Tether"
+          ],
+          "approx_seconds": 1012,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Arcane Amphisbaena"
+          ],
+          "approx_seconds": 1014,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Marwyn, the Preserver"
+          ],
+          "approx_seconds": 1015,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Inspired Tethermage"
+          ],
+          "approx_seconds": 1024,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Way of the Paradox"
+          ],
+          "approx_seconds": 1026,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Aerid Konstrari"
+          ],
+          "approx_seconds": 1030,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Avatar of Burgeoning Echoes"
+          ],
+          "approx_seconds": 1033,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Way of the Cryomancer"
+          ],
+          "approx_seconds": 1047,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Room of Refuge"
+          ],
+          "approx_seconds": 1060,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Way of the Mind Sculptor"
+          ],
+          "approx_seconds": 1066,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Kiora of Salt and Sand"
+          ],
+          "approx_seconds": 1068,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Clash of Elements"
+          ],
+          "approx_seconds": 1095,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Keeper of the Quiet Hour"
+          ],
+          "approx_seconds": 1206,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Ajani Unrelenting"
+          ],
+          "approx_seconds": 1226,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Ghalta the Unstoppable"
+          ],
+          "approx_seconds": 1236,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Post-draft conversation",
+      "start_seconds": 1250,
+      "end_seconds": 2490.05,
+      "mentions": []
     }
   ]
 }
