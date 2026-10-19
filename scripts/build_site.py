@@ -137,7 +137,7 @@ def section_markup(episode):
                 group.append(card_markup(catalogue[name], index, possible))
             markup = ''.join(group)
             if possible:
-                markup = f'<div class="possible-matches" role="group" aria-label="Possible card matches"><p><strong>Possible match · ~{timecode(mention["approx_seconds"])}</strong></p><div class="cards-grid">{markup}</div></div>'
+                markup = f'<div class="possible-matches" style="--candidate-count:{len(mention["names"])}" role="group" aria-label="Possible card matches">{markup}</div>'
             cards.append(markup)
         grid = '<div class="cards-grid">' + ''.join(cards) + '</div>' if cards else '<p class="meta">No named cards in this section.</p>'
         blocks.append(f'<section class="discussion-section" id="{anchor}" aria-labelledby="{anchor}-title"><p class="section-time">Approx. {stamp}</p><h2 id="{anchor}-title">{label}</h2>{grid}</section>')
