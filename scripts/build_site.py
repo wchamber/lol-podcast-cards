@@ -137,8 +137,7 @@ def section_markup(episode):
                 group.append(card_markup(catalogue[name], index, possible))
             markup = ''.join(group)
             if possible:
-                explanation = 'Alternatives for one unclear reference, not separately confirmed mentions.' if len(group) > 1 else 'Uncertain identification, not a confirmed mention.'
-                markup = f'<div class="possible-matches" role="group" aria-label="Possible card matches"><p><strong>Possible match · ~{timecode(mention["approx_seconds"])}</strong><br>{explanation}</p><div class="cards-grid">{markup}</div></div>'
+                markup = f'<div class="possible-matches" role="group" aria-label="Possible card matches"><p><strong>Possible match · ~{timecode(mention["approx_seconds"])}</strong></p><div class="cards-grid">{markup}</div></div>'
             cards.append(markup)
         grid = '<div class="cards-grid">' + ''.join(cards) + '</div>' if cards else '<p class="meta">No named cards in this section.</p>'
         blocks.append(f'<section class="discussion-section" id="{anchor}" aria-labelledby="{anchor}-title"><p class="section-time">Approx. {stamp}</p><h2 id="{anchor}-title">{label}</h2>{grid}</section>')
@@ -164,27 +163,22 @@ def build():
     for index, episode in enumerate(episodes):
         badge = '<br><span class="badge">Latest gallery</span>' if index == 0 else ""
         rows.append(f'<li><a class="episode-row" href="episodes/{episode["slug"]}/"><span class="date"><time datetime="{episode["feed_date"]}">{readable_date(episode)}</time>{badge}</span><strong>{escape(episode["title"])}</strong><span class="count">{len(episode["cards"])} cards ↗</span></a></li>')
-        appearances, ambiguous = section_counts(episode)
+        appearances, _ = section_counts(episode)
         if "sections" in episode:
             cards = section_markup(episode)
             summary = f'{len(episode["cards"])} unique cards · {appearances} appearances · {len(episode["sections"])} sections'
-            guidance = '<p class="notice">Rough listening timestamps. Cards reappear when the discussion returns to them; possible matches are labelled and may include alternatives.</p>'
-            if ambiguous:
-                guidance += f'<p class="notice">{ambiguous} uncertain reference{"s" if ambiguous != 1 else ""} shown as possible matches. Card counts include these candidates.</p>'
         else:
             cards = '<section class="cards-grid" aria-label="Cards in first-mention order">' + "\n".join(card_markup(card, i + 1) for i, card in enumerate(episode["cards"])) + '</section>'
-            summary, guidance = f'{len(episode["cards"])} cards', ''
-        unresolved = episode["unresolved_count"]
-        notice = f'<p class="notice">{unresolved} reference{"s" if unresolved != 1 else ""} could not be matched to defensible candidates and remain excluded.</p>' if unresolved else ""
+            summary = f'{len(episode["cards"])} cards'
         older = episodes[index + 1] if index + 1 < len(episodes) else None
         newer = episodes[index - 1] if index else None
         nav = '<nav class="episode-nav" aria-label="Adjacent episodes">'
         nav += f'<a rel="prev" href="../{older["slug"]}/">← Older<br>{escape(older["title"])}</a>' if older else '<span></span>'
         nav += f'<a rel="next" href="../{newer["slug"]}/">Newer →<br>{escape(newer["title"])}</a>' if newer else '<span></span>'
         nav += '</nav>'
-        content = f'<p class="eyebrow">Episode gallery</p><h1>{escape(episode["title"])}</h1><p class="meta"><time datetime="{episode["feed_date"]}">{readable_date(episode)}</time> · Early-access feed date · {summary}</p>{guidance}{notice}{cards}{nav}'
+        content = f'<p class="eyebrow">Episode gallery</p><h1>{escape(episode["title"])}</h1><p class="meta"><time datetime="{episode["feed_date"]}">{readable_date(episode)}</time> · {summary}</p>{cards}{nav}'
         write(output / "episodes" / episode["slug"] / "index.html", episode["title"] + " — Cards mentioned", f'{len(episode["cards"])} cards mentioned in {episode["title"]}', "../..", content)
-    content = '<p class="eyebrow">The episode archive</p><h1>Heard on the podcast.<br>Here on the page.</h1><p class="intro">The cards mentioned on Lords of Limited, collected in one place. Pick an episode to browse its gallery.</p><p class="meta">Dates reflect the early-access feed and may precede public release.</p><ol class="episode-list">' + "\n".join(rows) + '</ol>'
+    content = '<p class="eyebrow">The episode archive</p><h1>Heard on the podcast.<br>Here on the page.</h1><p class="intro">Cards mentioned on Lords of Limited.</p><ol class="episode-list">' + "\n".join(rows) + '</ol>'
     write(output / "index.html", "Lords of Limited — Cards mentioned", "Browse card galleries from Lords of Limited episodes.", ".", content)
     return {"episodes": len(episodes), "cards": sum(len(e["cards"]) for e in episodes), "output": str(output)}
 
