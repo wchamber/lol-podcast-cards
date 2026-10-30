@@ -1,0 +1,1466 @@
+{
+  "slug": "502",
+  "title": "50 Reality Fracture Takes in 50 Minutes - Episode 502",
+  "feed_date": "2026-10-25",
+  "unresolved_count": 0,
+  "cards": [
+    {
+      "name": "Blossom-Blessed Angel // Seed Suture",
+      "image_url": "https://cards.scryfall.io/grid/front/5/e/5e77fbf0-9d1f-4e7d-a02e-43065d11b0d9.webp?1789692643",
+      "scryfall_url": "https://scryfall.com/card/fra/3/blossom-blessed-angel-seed-suture?utm_source=api"
+    },
+    {
+      "name": "Fblthp, Impossibly Lost",
+      "image_url": "https://cards.scryfall.io/grid/front/a/3/a3a2edbb-d144-4670-acad-17316cea98d2.webp?1789127697",
+      "scryfall_url": "https://scryfall.com/card/fra/213/fblthp-impossibly-lost?utm_source=api"
+    },
+    {
+      "name": "Yoshimaru, Beloved Companion",
+      "image_url": "https://cards.scryfall.io/grid/front/3/8/384f3b7d-8d7f-41bf-bebd-64e8babe7fca.webp?1789470881",
+      "scryfall_url": "https://scryfall.com/card/fra/209/yoshimaru-beloved-companion?utm_source=api"
+    },
+    {
+      "name": "Yoshimaru, Scrappy Stray",
+      "image_url": "https://cards.scryfall.io/grid/front/b/8/b8dfd087-2434-42c6-ac4c-1decbcdde2db.webp?1789470909",
+      "scryfall_url": "https://scryfall.com/card/fra/269/yoshimaru-scrappy-stray?utm_source=api"
+    },
+    {
+      "name": "Protege's Awakening",
+      "image_url": "https://cards.scryfall.io/grid/front/a/0/a08c7ec2-4c6a-4db2-85a7-41afe8731523.webp?1790558750",
+      "scryfall_url": "https://scryfall.com/card/fra/37/proteges-awakening?utm_source=api"
+    },
+    {
+      "name": "Medic's Kitesail",
+      "image_url": "https://cards.scryfall.io/grid/front/8/b/8b07409a-1dce-461d-95e4-1130521ff4c4.webp?1789556945",
+      "scryfall_url": "https://scryfall.com/card/fra/173/medics-kitesail?utm_source=api"
+    },
+    {
+      "name": "Way of the Pyromancer",
+      "image_url": "https://cards.scryfall.io/grid/front/c/1/c1a00020-7c14-4503-a057-5763704bb83e.webp?1788878311",
+      "scryfall_url": "https://scryfall.com/card/fra/254/way-of-the-pyromancer?utm_source=api"
+    },
+    {
+      "name": "Mindseeker Oculus",
+      "image_url": "https://cards.scryfall.io/grid/front/f/5/f5324741-353a-4a70-adb2-b631b00806dd.webp?1789556707",
+      "scryfall_url": "https://scryfall.com/card/fra/33/mindseeker-oculus?utm_source=api"
+    },
+    {
+      "name": "Way of the Paradox",
+      "image_url": "https://cards.scryfall.io/grid/front/9/8/98dc5470-507a-4364-8480-42607255e56c.webp?1789729606",
+      "scryfall_url": "https://scryfall.com/card/fra/267/way-of-the-paradox?utm_source=api"
+    },
+    {
+      "name": "Way of the Mind Sculptor",
+      "image_url": "https://cards.scryfall.io/grid/front/5/8/5838af68-66c3-4fe8-ab89-0a1721b0cfeb.webp?1789729565",
+      "scryfall_url": "https://scryfall.com/card/fra/224/way-of-the-mind-sculptor?utm_source=api"
+    },
+    {
+      "name": "Way of the Healer",
+      "image_url": "https://cards.scryfall.io/grid/front/5/0/50326a2a-7e10-464b-a97e-e880bda0558c.webp?1789729503",
+      "scryfall_url": "https://scryfall.com/card/fra/207/way-of-the-healer?utm_source=api"
+    },
+    {
+      "name": "Way of the Wildspeaker",
+      "image_url": "https://cards.scryfall.io/grid/front/a/2/a252cb01-537b-4afe-9abc-81a98c4a1439.webp?1789729602",
+      "scryfall_url": "https://scryfall.com/card/fra/268/way-of-the-wildspeaker?utm_source=api"
+    },
+    {
+      "name": "Way of the Cryomancer",
+      "image_url": "https://cards.scryfall.io/grid/front/8/3/838b0efb-7398-4df9-8fdf-b8af43b47938.webp?1789014637",
+      "scryfall_url": "https://scryfall.com/card/fra/223/way-of-the-cryomancer?utm_source=api"
+    },
+    {
+      "name": "Way of the Deathbringer",
+      "image_url": "https://cards.scryfall.io/grid/front/1/2/12dd46b2-e892-4660-b120-55766fd4d878.webp?1789729576",
+      "scryfall_url": "https://scryfall.com/card/fra/238/way-of-the-deathbringer?utm_source=api"
+    },
+    {
+      "name": "Rank Rat",
+      "image_url": "https://cards.scryfall.io/grid/front/4/f/4ff6da82-d7dd-4b59-b7e6-30670cea7169.webp?1789556727",
+      "scryfall_url": "https://scryfall.com/card/fra/61/rank-rat?utm_source=api"
+    },
+    {
+      "name": "Blessed Ghoul",
+      "image_url": "https://cards.scryfall.io/grid/front/b/b/bb975803-9bf2-401e-9414-d272df314398.webp?1789556847",
+      "scryfall_url": "https://scryfall.com/card/fra/123/blessed-ghoul?utm_source=api"
+    },
+    {
+      "name": "Kiora of Fire and Ashes",
+      "image_url": "https://cards.scryfall.io/grid/front/0/8/08657053-86f9-4c52-abf0-d9cdd443ae3b.webp?1789127995",
+      "scryfall_url": "https://scryfall.com/card/fra/247/kiora-of-fire-and-ashes?utm_source=api"
+    },
+    {
+      "name": "Ajani Resolute",
+      "image_url": "https://cards.scryfall.io/grid/front/a/5/a5e1a7dd-8c49-4435-935c-bcc78704082b.webp?1788329189",
+      "scryfall_url": "https://scryfall.com/card/fra/195/ajani-resolute?utm_source=api"
+    },
+    {
+      "name": "Ajani Unrelenting",
+      "image_url": "https://cards.scryfall.io/grid/front/b/c/bc3c096f-7f6c-474c-a2c8-75d3e6ddd6f5.webp?1788329317",
+      "scryfall_url": "https://scryfall.com/card/fra/242/ajani-unrelenting?utm_source=api"
+    },
+    {
+      "name": "Way of the Warlord",
+      "image_url": "https://cards.scryfall.io/grid/front/6/d/6d86e410-20c4-4248-96bf-5780ece6274a.webp?1789729585",
+      "scryfall_url": "https://scryfall.com/card/fra/255/way-of-the-warlord?utm_source=api"
+    },
+    {
+      "name": "Way of the Mentor",
+      "image_url": "https://cards.scryfall.io/grid/front/1/a/1a59d5b1-12d6-486b-bd29-ca371359addd.webp?1789729554",
+      "scryfall_url": "https://scryfall.com/card/fra/208/way-of-the-mentor?utm_source=api"
+    },
+    {
+      "name": "Way of the Necromancer",
+      "image_url": "https://cards.scryfall.io/grid/front/a/0/a0ff9689-ea49-4fff-b37c-4abbaeb0f73d.webp?1789729526",
+      "scryfall_url": "https://scryfall.com/card/fra/239/way-of-the-necromancer?utm_source=api"
+    },
+    {
+      "name": "Danitha, Sword of Hope",
+      "image_url": "https://cards.scryfall.io/grid/front/d/5/d5cb9810-3c2d-4ae4-b8b6-0155ca3f47ad.webp?1789127178",
+      "scryfall_url": "https://scryfall.com/card/fra/196/danitha-sword-of-hope?utm_source=api"
+    },
+    {
+      "name": "Theorix Metamage // Omit Variables",
+      "image_url": "https://cards.scryfall.io/grid/front/f/b/fb6bad96-841d-4738-8e62-92f346f914fd.webp?1789556930",
+      "scryfall_url": "https://scryfall.com/card/fra/156/theorix-metamage-omit-variables?utm_source=api"
+    },
+    {
+      "name": "Void Extrapolator // Omit Variables",
+      "image_url": "https://cards.scryfall.io/grid/front/0/e/0eae2efb-bf25-48ee-9c07-9098008110ad.webp?1789556787",
+      "scryfall_url": "https://scryfall.com/card/fra/70/void-extrapolator-omit-variables?utm_source=api"
+    },
+    {
+      "name": "Paradox Shaper // Omit Variables",
+      "image_url": "https://cards.scryfall.io/grid/front/e/6/e61b9d48-0ace-4453-afe0-a1024444bac0.webp?1788329390",
+      "scryfall_url": "https://scryfall.com/card/fra/143/paradox-shaper-omit-variables?utm_source=api"
+    },
+    {
+      "name": "Traxos, Academy Guardian",
+      "image_url": "https://cards.scryfall.io/grid/front/a/3/a349800f-b634-4e74-a9d9-185df37ad909.webp?1789568451",
+      "scryfall_url": "https://scryfall.com/card/fra/222/traxos-academy-guardian?utm_source=api"
+    },
+    {
+      "name": "Tomik, Izzet Sparkmage",
+      "image_url": "https://cards.scryfall.io/grid/front/5/c/5c5afd5f-6f37-4c3e-83f0-68fdcea98810.webp?1789729773",
+      "scryfall_url": "https://scryfall.com/card/fra/253/tomik-izzet-sparkmage?utm_source=api"
+    },
+    {
+      "name": "Craftwork Crusher",
+      "image_url": "https://cards.scryfall.io/grid/front/0/3/03f9839c-aa07-4ee7-847b-091e47ab80c4.webp?1789470711",
+      "scryfall_url": "https://scryfall.com/card/fra/127/craftwork-crusher?utm_source=api"
+    },
+    {
+      "name": "Heartwood Crafter // Soul Tether",
+      "image_url": "https://cards.scryfall.io/grid/front/9/1/910a1f41-17fd-4ab0-9597-7151e79dc760.webp?1789127630",
+      "scryfall_url": "https://scryfall.com/card/fra/105/heartwood-crafter-soul-tether?utm_source=api"
+    },
+    {
+      "name": "Emrakul, the Exigent Doom",
+      "image_url": "https://cards.scryfall.io/grid/front/c/3/c3ff8dd3-88a8-49dc-a59b-e2748680623c.webp?1790829846",
+      "scryfall_url": "https://scryfall.com/card/fra/1/emrakul-the-exigent-doom?utm_source=api"
+    },
+    {
+      "name": "Woodwork Prodigy // Soul Tether",
+      "image_url": "https://cards.scryfall.io/grid/front/7/d/7d17f7e3-7b63-4674-9024-4fd1827f40ec.webp?1788329429",
+      "scryfall_url": "https://scryfall.com/card/fra/165/woodwork-prodigy-soul-tether?utm_source=api"
+    },
+    {
+      "name": "Draconic Visitor",
+      "image_url": "https://cards.scryfall.io/grid/front/1/1/112f8478-bd89-4a14-9721-8ab750613129.webp?1789470842",
+      "scryfall_url": "https://scryfall.com/card/fra/80/draconic-visitor?utm_source=api"
+    },
+    {
+      "name": "Countersculpt",
+      "image_url": "https://cards.scryfall.io/grid/front/1/4/145b928d-a7ff-4fe5-ae4d-bbae7b1d955b.webp?1788878107",
+      "scryfall_url": "https://scryfall.com/card/fra/25/countersculpt?utm_source=api"
+    },
+    {
+      "name": "Surveillance Phantasm",
+      "image_url": "https://cards.scryfall.io/grid/front/9/d/9df8a06d-c7de-49af-8c01-06dca3dfef4b.webp?1789385597",
+      "scryfall_url": "https://scryfall.com/card/fra/42/surveillance-phantasm?utm_source=api"
+    },
+    {
+      "name": "Extended Absence",
+      "image_url": "https://cards.scryfall.io/grid/front/e/b/eb4b6ed8-782e-4473-abc9-d50bf2275c6a.webp?1789556713",
+      "scryfall_url": "https://scryfall.com/card/fra/54/extended-absence?utm_source=api"
+    },
+    {
+      "name": "Tetsuko Umezawa, Fugitive",
+      "image_url": "https://cards.scryfall.io/grid/front/3/9/3983d71e-3c23-4b36-b331-08e0707d8245.webp?1789127702",
+      "scryfall_url": "https://scryfall.com/card/fra/221/tetsuko-umezawa-fugitive?utm_source=api"
+    },
+    {
+      "name": "Ghalta the Immovable",
+      "image_url": "https://cards.scryfall.io/grid/front/a/9/a9f3aa55-908f-42db-8135-4201433df850.webp?1789014423",
+      "scryfall_url": "https://scryfall.com/card/fra/197/ghalta-the-immovable?utm_source=api"
+    },
+    {
+      "name": "Ghalta the Unstoppable",
+      "image_url": "https://cards.scryfall.io/grid/front/1/d/1d535b5f-c916-4f16-89a7-9477578826d2.webp?1788878290",
+      "scryfall_url": "https://scryfall.com/card/fra/260/ghalta-the-unstoppable?utm_source=api"
+    },
+    {
+      "name": "Campus Crier",
+      "image_url": "https://cards.scryfall.io/grid/front/6/0/6047b14c-91d5-4f8e-af3f-057a541e2546.webp?1788878120",
+      "scryfall_url": "https://scryfall.com/card/fra/4/campus-crier?utm_source=api"
+    },
+    {
+      "name": "Theoretical Necromancer",
+      "image_url": "https://cards.scryfall.io/grid/front/e/3/e36a7908-1e22-494b-adb4-e72ac0974d62.webp?1789556734",
+      "scryfall_url": "https://scryfall.com/card/fra/69/theoretical-necromancer?utm_source=api"
+    },
+    {
+      "name": "Violent Echoes",
+      "image_url": "https://cards.scryfall.io/grid/front/a/d/ad03ba90-2442-4a71-94df-2088b5b63662.webp?1789127599",
+      "scryfall_url": "https://scryfall.com/card/fra/95/violent-echoes?utm_source=api"
+    },
+    {
+      "name": "Memory Trap",
+      "image_url": "https://cards.scryfall.io/grid/front/2/f/2f5345ae-4489-4d05-b2d5-c71285254f05.webp?1788866058",
+      "scryfall_url": "https://scryfall.com/card/fra/15/memory-trap?utm_source=api"
+    },
+    {
+      "name": "Twinned Vision",
+      "image_url": "https://cards.scryfall.io/grid/front/5/5/55f85984-0137-4899-8993-bbc8c4794d33.webp?1789556940",
+      "scryfall_url": "https://scryfall.com/card/fra/157/twinned-vision?utm_source=api"
+    },
+    {
+      "name": "Wrath of the Bloodmane",
+      "image_url": "https://cards.scryfall.io/grid/front/b/5/b5b55617-684a-4036-be9b-a3b24fc9cd5a.webp?1789385820",
+      "scryfall_url": "https://scryfall.com/card/fra/96/wrath-of-the-bloodmane?utm_source=api"
+    },
+    {
+      "name": "Arcane Amphisbaena",
+      "image_url": "https://cards.scryfall.io/grid/front/1/b/1bf923c4-f0b7-4271-978c-fd2e79fe1cc8.webp?1788878190",
+      "scryfall_url": "https://scryfall.com/card/fra/97/arcane-amphisbaena?utm_source=api"
+    },
+    {
+      "name": "Vinelasher Adept",
+      "image_url": "https://cards.scryfall.io/grid/front/e/5/e5ed142b-2b61-4ef5-8b23-2db2a0a0319d.webp?1789556814",
+      "scryfall_url": "https://scryfall.com/card/fra/119/vinelasher-adept?utm_source=api"
+    },
+    {
+      "name": "Bestial Incursion",
+      "image_url": "https://cards.scryfall.io/grid/front/e/0/e0de5f66-f0df-4866-9f73-104ce50411b4.webp?1789127248",
+      "scryfall_url": "https://scryfall.com/card/fra/98/bestial-incursion?utm_source=api"
+    },
+    {
+      "name": "Compel Brutality",
+      "image_url": "https://cards.scryfall.io/grid/front/b/d/bd32d736-7a58-46b9-90b4-2cac3c3e80a1.webp?1788521235",
+      "scryfall_url": "https://scryfall.com/card/fra/101/compel-brutality?utm_source=api"
+    },
+    {
+      "name": "Inspired Tethermage",
+      "image_url": "https://cards.scryfall.io/grid/front/0/7/073f4998-a204-447b-93d5-746ae87fd6a1.webp?1788878192",
+      "scryfall_url": "https://scryfall.com/card/fra/109/inspired-tethermage?utm_source=api"
+    },
+    {
+      "name": "Recursive Recruitment",
+      "image_url": "https://cards.scryfall.io/grid/front/6/8/68fddb6a-86d4-4ebb-907d-fdcaadebc4b3.webp?1789556898",
+      "scryfall_url": "https://scryfall.com/card/fra/147/recursive-recruitment?utm_source=api"
+    },
+    {
+      "name": "Living Library",
+      "image_url": "https://cards.scryfall.io/grid/front/5/d/5d4a8e5f-0024-4da3-a2f5-edb48b12e733.webp?1789556949",
+      "scryfall_url": "https://scryfall.com/card/fra/172/living-library?utm_source=api"
+    },
+    {
+      "name": "Unflinching Hortimancer",
+      "image_url": "https://cards.scryfall.io/grid/front/6/3/63f82985-c9c2-4d0a-ac4f-560166bebd9f.webp?1789556741",
+      "scryfall_url": "https://scryfall.com/card/fra/23/unflinching-hortimancer?utm_source=api"
+    },
+    {
+      "name": "Apex Witchstalker",
+      "image_url": "https://cards.scryfall.io/grid/front/c/d/cd56f047-6bdc-4e83-8a7c-923ebad26302.webp?1789556710",
+      "scryfall_url": "https://scryfall.com/card/fra/48/apex-witchstalker?utm_source=api"
+    },
+    {
+      "name": "Awaken the Inferno",
+      "image_url": "https://cards.scryfall.io/grid/front/c/5/c596c4ec-8480-4be9-a45d-700398a126f6.webp?1789556812",
+      "scryfall_url": "https://scryfall.com/card/fra/74/awaken-the-inferno?utm_source=api"
+    },
+    {
+      "name": "Hexhaven Battalion",
+      "image_url": "https://cards.scryfall.io/grid/front/3/b/3b6ac80e-c726-4bd0-893a-e666041a04a6.webp?1789556695",
+      "scryfall_url": "https://scryfall.com/card/fra/12/hexhaven-battalion?utm_source=api"
+    },
+    {
+      "name": "Undulating Witness",
+      "image_url": "https://cards.scryfall.io/grid/front/0/a/0adbb4b2-a142-48da-8f4b-fa91529dbac4.webp?1789556706",
+      "scryfall_url": "https://scryfall.com/card/fra/45/undulating-witness?utm_source=api"
+    },
+    {
+      "name": "Room of Refuge",
+      "image_url": "https://cards.scryfall.io/grid/front/9/a/9a467560-6676-4fc2-9400-768a79650aa4.webp?1789557010",
+      "scryfall_url": "https://scryfall.com/card/fra/188/room-of-refuge?utm_source=api"
+    },
+    {
+      "name": "Murmuring Volume",
+      "image_url": "https://cards.scryfall.io/grid/front/d/6/d68eab2e-89dd-4377-b7af-01512b1804a0.webp?1789385977",
+      "scryfall_url": "https://scryfall.com/card/fra/174/murmuring-volume?utm_source=api"
+    },
+    {
+      "name": "Command the Stage",
+      "image_url": "https://cards.scryfall.io/grid/front/f/3/f3307da2-6dad-4ef2-9614-a7d34f38088e.webp?1789644825",
+      "scryfall_url": "https://scryfall.com/card/fra/77/command-the-stage?utm_source=api"
+    },
+    {
+      "name": "Rescue Girl, First Responder",
+      "image_url": "https://cards.scryfall.io/grid/front/6/9/699874e3-1ccf-4a6c-8371-61040de82d08.webp?1789645598",
+      "scryfall_url": "https://scryfall.com/card/fra/202/rescue-girl-first-responder?utm_source=api"
+    },
+    {
+      "name": "Warrior's Blades",
+      "image_url": "https://cards.scryfall.io/grid/front/c/6/c63d5b0e-ee72-42ed-aa7e-484ba84507cd.webp?1789007648",
+      "scryfall_url": "https://scryfall.com/card/fra/163/warriors-blades?utm_source=api"
+    },
+    {
+      "name": "Lich's Relic",
+      "image_url": "https://cards.scryfall.io/grid/front/b/1/b105511d-5022-4a84-b6ce-4bb433e93a62.webp?1789644819",
+      "scryfall_url": "https://scryfall.com/card/fra/57/lichs-relic?utm_source=api"
+    },
+    {
+      "name": "Fateshaper Aspirant",
+      "image_url": "https://cards.scryfall.io/grid/front/f/0/f0c8400d-824f-4d79-84bc-7615a0deb831.webp?1789556683",
+      "scryfall_url": "https://scryfall.com/card/fra/6/fateshaper-aspirant?utm_source=api"
+    },
+    {
+      "name": "Teyo, Lightshield Expert",
+      "image_url": "https://cards.scryfall.io/grid/front/5/f/5f7521d7-9f1f-4f03-b2ea-dd2a1b1e4e5b.webp?1789471515",
+      "scryfall_url": "https://scryfall.com/card/fra/204/teyo-lightshield-expert?utm_source=api"
+    },
+    {
+      "name": "Hapatra, the Desert Frost",
+      "image_url": "https://cards.scryfall.io/grid/front/8/5/85faaa9d-4656-4365-871d-7cba53ed0996.webp?1789387113",
+      "scryfall_url": "https://scryfall.com/card/fra/215/hapatra-the-desert-frost?utm_source=api"
+    },
+    {
+      "name": "Loot, the Nexus",
+      "image_url": "https://cards.scryfall.io/grid/front/3/c/3cfa4fc6-4d90-4576-a83f-6496c7f21104.webp?1789614764",
+      "scryfall_url": "https://scryfall.com/card/fra/262/loot-the-nexus?utm_source=api"
+    },
+    {
+      "name": "Divining Duelist",
+      "image_url": "https://cards.scryfall.io/grid/front/9/6/960c7335-331d-488b-be68-2ad1c1c695dc.webp?1789556709",
+      "scryfall_url": "https://scryfall.com/card/fra/29/divining-duelist?utm_source=api"
+    },
+    {
+      "name": "Fulminous Forte",
+      "image_url": "https://cards.scryfall.io/grid/front/1/9/19acb2b5-3b3e-43f0-bd81-8426ed3d9c55.webp?1789614832",
+      "scryfall_url": "https://scryfall.com/card/fra/84/fulminous-forte?utm_source=api"
+    },
+    {
+      "name": "Marwyn, the Preserver",
+      "image_url": "https://cards.scryfall.io/grid/front/9/0/90f33f99-7bc5-42e1-815e-bfb4c2b74107.webp?1789644564",
+      "scryfall_url": "https://scryfall.com/card/fra/263/marwyn-the-preserver?utm_source=api"
+    },
+    {
+      "name": "Screeching Soulbreaker",
+      "image_url": "https://cards.scryfall.io/grid/front/7/3/738667a1-c184-43ea-829f-49fbb69b6fc0.webp?1789385960",
+      "scryfall_url": "https://scryfall.com/card/fra/65/screeching-soulbreaker?utm_source=api"
+    },
+    {
+      "name": "Yargle, Glutton of Urborg",
+      "image_url": "https://cards.scryfall.io/grid/front/0/4/04c816fb-5951-4db1-8834-ed3f0b36bfe1.webp?1789127722",
+      "scryfall_url": "https://scryfall.com/card/fra/241/yargle-glutton-of-urborg?utm_source=api"
+    },
+    {
+      "name": "Yargle, Goliath of Otaria",
+      "image_url": "https://cards.scryfall.io/grid/front/f/4/f45ba926-6496-4bd4-96eb-663946d56bbf.webp?1789128043",
+      "scryfall_url": "https://scryfall.com/card/fra/225/yargle-goliath-of-otaria?utm_source=api"
+    },
+    {
+      "name": "Icy Reception",
+      "image_url": "https://cards.scryfall.io/grid/front/8/d/8d754b96-5e44-45af-9c7a-b0da59fbe4c3.webp?1788779540",
+      "scryfall_url": "https://scryfall.com/card/fra/30/icy-reception?utm_source=api"
+    },
+    {
+      "name": "Tinybones, Pocket Nuisance",
+      "image_url": "https://cards.scryfall.io/grid/front/2/f/2f47ddf7-35b6-4205-8045-f057914c5f64.webp?1788329294",
+      "scryfall_url": "https://scryfall.com/card/fra/237/tinybones-pocket-nuisance?utm_source=api"
+    },
+    {
+      "name": "Face Yourself",
+      "image_url": "https://cards.scryfall.io/grid/front/3/c/3ccf8f64-19bd-4fdf-b70a-30a042bacf2f.webp?1789127528",
+      "scryfall_url": "https://scryfall.com/card/fra/83/face-yourself?utm_source=api"
+    },
+    {
+      "name": "Heartstring Puller",
+      "image_url": "https://cards.scryfall.io/grid/front/c/b/cbfe3354-7ced-4773-9a4e-a937ae9f94f8.webp?1789556808",
+      "scryfall_url": "https://scryfall.com/card/fra/86/heartstring-puller?utm_source=api"
+    },
+    {
+      "name": "Keeper of the Quiet Hour",
+      "image_url": "https://cards.scryfall.io/grid/front/b/6/b6331218-dbb8-44a9-8ba5-5fb1ab41c5c0.webp?1788878239",
+      "scryfall_url": "https://scryfall.com/card/fra/171/keeper-of-the-quiet-hour?utm_source=api"
+    },
+    {
+      "name": "Loot, the Anomaly",
+      "image_url": "https://cards.scryfall.io/grid/front/4/f/4f6fd2fa-8bc8-4743-bbc8-b56475d64eff.webp?1789568430",
+      "scryfall_url": "https://scryfall.com/card/fra/232/loot-the-anomaly?utm_source=api"
+    },
+    {
+      "name": "Yuriko, Hope from the Shadows",
+      "image_url": "https://cards.scryfall.io/grid/front/4/5/45e81487-8b8c-480b-922a-eaa9edc7201d.webp?1789127717",
+      "scryfall_url": "https://scryfall.com/card/fra/226/yuriko-hope-from-the-shadows?utm_source=api"
+    },
+    {
+      "name": "Koth, the Geomancer",
+      "image_url": "https://cards.scryfall.io/grid/front/5/4/54f64e95-5a97-4d7c-9939-7f33a3165562.webp?1789470892",
+      "scryfall_url": "https://scryfall.com/card/fra/248/koth-the-geomancer?utm_source=api"
+    },
+    {
+      "name": "Prudent Fateseer // Peer Review",
+      "image_url": "https://cards.scryfall.io/grid/front/6/c/6c1c790b-9e0e-4964-9ea3-554843907f06.webp?1788329412",
+      "scryfall_url": "https://scryfall.com/card/fra/146/prudent-fateseer-peer-review?utm_source=api"
+    },
+    {
+      "name": "Karn, Gilded Guardian",
+      "image_url": "https://cards.scryfall.io/grid/front/3/a/3abcae65-5b21-4c98-adad-34b8bc76ea3a.webp?1789014541",
+      "scryfall_url": "https://scryfall.com/card/fra/272/karn-gilded-guardian?utm_source=api"
+    },
+    {
+      "name": "Bloombrute",
+      "image_url": "https://cards.scryfall.io/grid/front/6/b/6b804503-9c70-4b1f-bb13-a65fb6dd3ef8.webp?1789644843",
+      "scryfall_url": "https://scryfall.com/card/fra/124/bloombrute?utm_source=api"
+    },
+    {
+      "name": "Afterthought Sentry",
+      "image_url": "https://cards.scryfall.io/grid/front/4/d/4d4b3bf7-a149-4099-b97d-4e36a87dfa60.webp?1789385875",
+      "scryfall_url": "https://scryfall.com/card/fra/166/afterthought-sentry?utm_source=api"
+    },
+    {
+      "name": "Overwrite the Multiverse",
+      "image_url": "https://cards.scryfall.io/grid/front/c/4/c4554f5b-791b-48f6-bf54-ad28699e1beb.webp?1788952080",
+      "scryfall_url": "https://scryfall.com/card/fra/59/overwrite-the-multiverse?utm_source=api"
+    }
+  ],
+  "sections": [
+    {
+      "title": "Intro and namesake card",
+      "start_seconds": 0,
+      "end_seconds": 450,
+      "mentions": [
+        {
+          "names": [
+            "Blossom-Blessed Angel // Seed Suture"
+          ],
+          "approx_seconds": 28,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Fblthp, Impossibly Lost"
+          ],
+          "approx_seconds": 66,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Yoshimaru, Beloved Companion",
+            "Yoshimaru, Scrappy Stray"
+          ],
+          "approx_seconds": 74,
+          "certainty": "ambiguous"
+        },
+        {
+          "names": [
+            "Protege's Awakening"
+          ],
+          "approx_seconds": 124,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Medic's Kitesail"
+          ],
+          "approx_seconds": 204,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Takes 1-4: Empower Jace and Ways",
+      "start_seconds": 450,
+      "end_seconds": 790,
+      "mentions": [
+        {
+          "names": [
+            "Way of the Pyromancer"
+          ],
+          "approx_seconds": 570,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Mindseeker Oculus"
+          ],
+          "approx_seconds": 700,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Take 5: Power ranking the Ways of X cycle",
+      "start_seconds": 790,
+      "end_seconds": 1030,
+      "mentions": [
+        {
+          "names": [
+            "Way of the Paradox"
+          ],
+          "approx_seconds": 798,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Way of the Pyromancer"
+          ],
+          "approx_seconds": 810,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Way of the Mind Sculptor"
+          ],
+          "approx_seconds": 830,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Protege's Awakening"
+          ],
+          "approx_seconds": 834,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Way of the Healer"
+          ],
+          "approx_seconds": 857,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Way of the Wildspeaker"
+          ],
+          "approx_seconds": 890,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Way of the Cryomancer"
+          ],
+          "approx_seconds": 912,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Way of the Deathbringer"
+          ],
+          "approx_seconds": 925,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Rank Rat"
+          ],
+          "approx_seconds": 935,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Blessed Ghoul"
+          ],
+          "approx_seconds": 938,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Kiora of Fire and Ashes"
+          ],
+          "approx_seconds": 988,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Ajani Resolute",
+            "Ajani Unrelenting"
+          ],
+          "approx_seconds": 990,
+          "certainty": "ambiguous"
+        },
+        {
+          "names": [
+            "Way of the Warlord"
+          ],
+          "approx_seconds": 1000,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Way of the Mentor"
+          ],
+          "approx_seconds": 1002,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Way of the Necromancer"
+          ],
+          "approx_seconds": 1004,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Takes 6-9: Prepared spells rankings and interactions",
+      "start_seconds": 1030,
+      "end_seconds": 1475,
+      "mentions": [
+        {
+          "names": [
+            "Danitha, Sword of Hope"
+          ],
+          "approx_seconds": 1100,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Blossom-Blessed Angel // Seed Suture"
+          ],
+          "approx_seconds": 1108,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Theorix Metamage // Omit Variables"
+          ],
+          "approx_seconds": 1125,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Void Extrapolator // Omit Variables"
+          ],
+          "approx_seconds": 1137,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Paradox Shaper // Omit Variables"
+          ],
+          "approx_seconds": 1142,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Traxos, Academy Guardian"
+          ],
+          "approx_seconds": 1215,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Tomik, Izzet Sparkmage"
+          ],
+          "approx_seconds": 1224,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Fblthp, Impossibly Lost"
+          ],
+          "approx_seconds": 1234,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Craftwork Crusher"
+          ],
+          "approx_seconds": 1262,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Heartwood Crafter // Soul Tether"
+          ],
+          "approx_seconds": 1285,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Emrakul, the Exigent Doom"
+          ],
+          "approx_seconds": 1295,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Woodwork Prodigy // Soul Tether"
+          ],
+          "approx_seconds": 1318,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Draconic Visitor"
+          ],
+          "approx_seconds": 1338,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Countersculpt"
+          ],
+          "approx_seconds": 1473,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Takes 10-16: Format pacing, removal, and draft strategy",
+      "start_seconds": 1475,
+      "end_seconds": 1990,
+      "mentions": [
+        {
+          "names": [
+            "Craftwork Crusher"
+          ],
+          "approx_seconds": 1500,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Kiora of Fire and Ashes"
+          ],
+          "approx_seconds": 1502,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Fblthp, Impossibly Lost"
+          ],
+          "approx_seconds": 1555,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Surveillance Phantasm"
+          ],
+          "approx_seconds": 1563,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Mindseeker Oculus"
+          ],
+          "approx_seconds": 1566,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Extended Absence"
+          ],
+          "approx_seconds": 1654,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Medic's Kitesail"
+          ],
+          "approx_seconds": 1704,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Blossom-Blessed Angel // Seed Suture"
+          ],
+          "approx_seconds": 1714,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Theorix Metamage // Omit Variables"
+          ],
+          "approx_seconds": 1735,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Tetsuko Umezawa, Fugitive"
+          ],
+          "approx_seconds": 1746,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Ghalta the Immovable",
+            "Ghalta the Unstoppable"
+          ],
+          "approx_seconds": 1752,
+          "certainty": "ambiguous"
+        },
+        {
+          "names": [
+            "Campus Crier"
+          ],
+          "approx_seconds": 1759,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Theoretical Necromancer"
+          ],
+          "approx_seconds": 1762,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Violent Echoes"
+          ],
+          "approx_seconds": 1805,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Way of the Pyromancer"
+          ],
+          "approx_seconds": 1808,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Protege's Awakening"
+          ],
+          "approx_seconds": 1895,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Takes 17-21: Top commons and archetypes",
+      "start_seconds": 1990,
+      "end_seconds": 2340,
+      "mentions": [
+        {
+          "names": [
+            "Memory Trap"
+          ],
+          "approx_seconds": 2000,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Mindseeker Oculus"
+          ],
+          "approx_seconds": 2003,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Extended Absence"
+          ],
+          "approx_seconds": 2005,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Twinned Vision"
+          ],
+          "approx_seconds": 2009,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Wrath of the Bloodmane"
+          ],
+          "approx_seconds": 2012,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Arcane Amphisbaena"
+          ],
+          "approx_seconds": 2050,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Vinelasher Adept"
+          ],
+          "approx_seconds": 2052,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Bestial Incursion"
+          ],
+          "approx_seconds": 2058,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Compel Brutality"
+          ],
+          "approx_seconds": 2060,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Inspired Tethermage"
+          ],
+          "approx_seconds": 2068,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Craftwork Crusher"
+          ],
+          "approx_seconds": 2100,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Recursive Recruitment"
+          ],
+          "approx_seconds": 2105,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Fblthp, Impossibly Lost"
+          ],
+          "approx_seconds": 2278,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Takes 22-26: The 18th-23rd cards, mana fixing, and landcyclers",
+      "start_seconds": 2340,
+      "end_seconds": 2780,
+      "mentions": [
+        {
+          "names": [
+            "Living Library"
+          ],
+          "approx_seconds": 2374,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Unflinching Hortimancer"
+          ],
+          "approx_seconds": 2445,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Ghalta the Immovable"
+          ],
+          "approx_seconds": 2463,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Ghalta the Unstoppable"
+          ],
+          "approx_seconds": 2465,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Tetsuko Umezawa, Fugitive"
+          ],
+          "approx_seconds": 2468,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Danitha, Sword of Hope"
+          ],
+          "approx_seconds": 2470,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Yoshimaru, Beloved Companion",
+            "Yoshimaru, Scrappy Stray"
+          ],
+          "approx_seconds": 2473,
+          "certainty": "ambiguous"
+        },
+        {
+          "names": [
+            "Apex Witchstalker",
+            "Awaken the Inferno",
+            "Hexhaven Battalion",
+            "Undulating Witness",
+            "Vinelasher Adept"
+          ],
+          "approx_seconds": 2565,
+          "certainty": "ambiguous"
+        },
+        {
+          "names": [
+            "Room of Refuge"
+          ],
+          "approx_seconds": 2605,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Murmuring Volume"
+          ],
+          "approx_seconds": 2630,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Blessed Ghoul"
+          ],
+          "approx_seconds": 2640,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Command the Stage"
+          ],
+          "approx_seconds": 2642,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Twinned Vision"
+          ],
+          "approx_seconds": 2748,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Takes 27-31: Rescue Girl, combos, synergies, and Yoshimaru",
+      "start_seconds": 2780,
+      "end_seconds": 3075,
+      "mentions": [
+        {
+          "names": [
+            "Rescue Girl, First Responder"
+          ],
+          "approx_seconds": 2785,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Warrior's Blades"
+          ],
+          "approx_seconds": 2835,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Lich's Relic"
+          ],
+          "approx_seconds": 2837,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Memory Trap"
+          ],
+          "approx_seconds": 2842,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Fateshaper Aspirant"
+          ],
+          "approx_seconds": 2844,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Teyo, Lightshield Expert"
+          ],
+          "approx_seconds": 2847,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Hapatra, the Desert Frost"
+          ],
+          "approx_seconds": 2865,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Loot, the Nexus"
+          ],
+          "approx_seconds": 2867,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Divining Duelist"
+          ],
+          "approx_seconds": 2872,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Tomik, Izzet Sparkmage"
+          ],
+          "approx_seconds": 2885,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Fulminous Forte"
+          ],
+          "approx_seconds": 2887,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Marwyn, the Preserver"
+          ],
+          "approx_seconds": 2915,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Murmuring Volume"
+          ],
+          "approx_seconds": 2925,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Danitha, Sword of Hope"
+          ],
+          "approx_seconds": 2928,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Medic's Kitesail"
+          ],
+          "approx_seconds": 2934,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Ghalta the Immovable",
+            "Ghalta the Unstoppable"
+          ],
+          "approx_seconds": 2937,
+          "certainty": "ambiguous"
+        },
+        {
+          "names": [
+            "Living Library"
+          ],
+          "approx_seconds": 2938,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Theoretical Necromancer"
+          ],
+          "approx_seconds": 2940,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Screeching Soulbreaker"
+          ],
+          "approx_seconds": 2941,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Blossom-Blessed Angel // Seed Suture"
+          ],
+          "approx_seconds": 2955,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Yoshimaru, Beloved Companion"
+          ],
+          "approx_seconds": 2965,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Yargle, Glutton of Urborg",
+            "Yargle, Goliath of Otaria"
+          ],
+          "approx_seconds": 3020,
+          "certainty": "ambiguous"
+        }
+      ]
+    },
+    {
+      "title": "Takes 32-38: Bombs, data, and play patterns",
+      "start_seconds": 3075,
+      "end_seconds": 3400,
+      "mentions": [
+        {
+          "names": [
+            "Kiora of Fire and Ashes"
+          ],
+          "approx_seconds": 3080,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Twinned Vision"
+          ],
+          "approx_seconds": 3100,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Fateshaper Aspirant"
+          ],
+          "approx_seconds": 3130,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Rescue Girl, First Responder"
+          ],
+          "approx_seconds": 3150,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Fblthp, Impossibly Lost"
+          ],
+          "approx_seconds": 3185,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Icy Reception"
+          ],
+          "approx_seconds": 3345,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Craftwork Crusher"
+          ],
+          "approx_seconds": 3365,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Tinybones, Pocket Nuisance"
+          ],
+          "approx_seconds": 3375,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Murmuring Volume"
+          ],
+          "approx_seconds": 3385,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Tomik, Izzet Sparkmage"
+          ],
+          "approx_seconds": 3388,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Takes 39-47: Specific cards and awards",
+      "start_seconds": 3400,
+      "end_seconds": 3740,
+      "mentions": [
+        {
+          "names": [
+            "Face Yourself"
+          ],
+          "approx_seconds": 3405,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Heartstring Puller"
+          ],
+          "approx_seconds": 3430,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Keeper of the Quiet Hour"
+          ],
+          "approx_seconds": 3465,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Protege's Awakening"
+          ],
+          "approx_seconds": 3495,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Hexhaven Battalion"
+          ],
+          "approx_seconds": 3500,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Loot, the Anomaly"
+          ],
+          "approx_seconds": 3535,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Tetsuko Umezawa, Fugitive"
+          ],
+          "approx_seconds": 3564,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Icy Reception"
+          ],
+          "approx_seconds": 3570,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Yuriko, Hope from the Shadows"
+          ],
+          "approx_seconds": 3578,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Koth, the Geomancer"
+          ],
+          "approx_seconds": 3588,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Ghalta the Immovable",
+            "Ghalta the Unstoppable"
+          ],
+          "approx_seconds": 3595,
+          "certainty": "ambiguous"
+        },
+        {
+          "names": [
+            "Ghalta the Unstoppable"
+          ],
+          "approx_seconds": 3605,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Ghalta the Immovable"
+          ],
+          "approx_seconds": 3607,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Prudent Fateseer // Peer Review"
+          ],
+          "approx_seconds": 3680,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Karn, Gilded Guardian"
+          ],
+          "approx_seconds": 3710,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Warrior's Blades"
+          ],
+          "approx_seconds": 3722,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Bloombrute"
+          ],
+          "approx_seconds": 3740,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Takes 48-50 and wrap-up: Format reflections and sweeper discussion",
+      "start_seconds": 3740,
+      "end_seconds": 4083,
+      "mentions": [
+        {
+          "names": [
+            "Afterthought Sentry"
+          ],
+          "approx_seconds": 3800,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Way of the Healer"
+          ],
+          "approx_seconds": 3815,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Way of the Mentor"
+          ],
+          "approx_seconds": 3817,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Overwrite the Multiverse"
+          ],
+          "approx_seconds": 3835,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Ajani Unrelenting"
+          ],
+          "approx_seconds": 3840,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Murmuring Volume"
+          ],
+          "approx_seconds": 3858,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Twinned Vision"
+          ],
+          "approx_seconds": 3860,
+          "certainty": "confirmed"
+        }
+      ]
+    }
+  ]
+}
