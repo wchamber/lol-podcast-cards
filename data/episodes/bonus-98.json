@@ -1,0 +1,598 @@
+{
+  "slug": "bonus-98",
+  "title": "BONUS Lords Unlimited 98 - Star Trek Previews and Did Marching Band Miss Out on State?",
+  "feed_date": "2026-10-30",
+  "unresolved_count": 0,
+  "cards": [
+    {
+      "name": "Seven of Nine",
+      "image_url": "https://cards.scryfall.io/grid/front/6/2/6204cfdb-6fb4-4030-96b6-9306c8266bcf.webp?1784036800",
+      "scryfall_url": "https://scryfall.com/card/trk/252/seven-of-nine?utm_source=api"
+    },
+    {
+      "name": "Hoshi Sato, Exolinguist",
+      "image_url": "https://cards.scryfall.io/grid/front/2/4/24589f4d-c530-4f6a-b2d0-450ef70fca71.webp?1784065562",
+      "scryfall_url": "https://scryfall.com/card/trk/64/hoshi-sato-exolinguist?utm_source=api"
+    },
+    {
+      "name": "Assault Drone",
+      "image_url": "https://cards.scryfall.io/grid/front/5/c/5ca2da7a-afbf-4b32-8ff6-ae899b9f70ad.webp?1785981435",
+      "scryfall_url": "https://scryfall.com/card/trk/92/assault-drone?utm_source=api"
+    },
+    {
+      "name": "The Traveler",
+      "image_url": "https://cards.scryfall.io/grid/front/1/7/171932ba-26da-48e9-b8a2-c71aafe5c6a6.webp?1792508396",
+      "scryfall_url": "https://scryfall.com/card/trk/254/the-traveler?utm_source=api"
+    },
+    {
+      "name": "The Borg Queen",
+      "image_url": "https://cards.scryfall.io/grid/front/8/e/8ed939ba-bf8d-4a68-ae9f-f8ca4eb301ab.webp?1792507909",
+      "scryfall_url": "https://scryfall.com/card/trc/1/the-borg-queen?utm_source=api"
+    },
+    {
+      "name": "Constable Odo",
+      "image_url": "https://cards.scryfall.io/grid/front/3/d/3df582e4-3bfb-4413-9b39-898f33a5c1fd.webp?1792508297",
+      "scryfall_url": "https://scryfall.com/card/trk/230/constable-odo?utm_source=api"
+    },
+    {
+      "name": "Hemmer, Fixing What Is Broken",
+      "image_url": "https://cards.scryfall.io/grid/front/f/3/f3e730d7-3fd1-4bd2-a35b-6fb85bfd3c65.webp?1792550956",
+      "scryfall_url": "https://scryfall.com/card/trk/239/hemmer-fixing-what-is-broken?utm_source=api"
+    },
+    {
+      "name": "Lore, Positronic Provocateur",
+      "image_url": "https://cards.scryfall.io/grid/front/6/2/62afa55d-d4ba-48d5-9991-0f8408f9c92c.webp?1792508378",
+      "scryfall_url": "https://scryfall.com/card/trk/246/lore-positronic-provocateur?utm_source=api"
+    },
+    {
+      "name": "L'Rell, Fierce Visionary",
+      "image_url": "https://cards.scryfall.io/grid/front/7/b/7b06bbb9-7c6d-4889-b55a-1de77c27fd18.webp?1792508377",
+      "scryfall_url": "https://scryfall.com/card/trk/247/lrell-fierce-visionary?utm_source=api"
+    },
+    {
+      "name": "Ragavan, Nimble Pilferer",
+      "image_url": "https://cards.scryfall.io/grid/front/a/9/a9738cda-adb1-47fb-9f4c-ecd930228c4d.webp?1791803835",
+      "scryfall_url": "https://scryfall.com/card/mh2/138/ragavan-nimble-pilferer?utm_source=api"
+    },
+    {
+      "name": "The Duras Sisters",
+      "image_url": "https://cards.scryfall.io/grid/front/7/e/7eb112eb-2abf-4ba3-b9bd-b45ffa80f7eb.webp?1792508321",
+      "scryfall_url": "https://scryfall.com/card/trk/235/the-duras-sisters?utm_source=api"
+    },
+    {
+      "name": "Cleveland Booker, Empath",
+      "image_url": "https://cards.scryfall.io/grid/front/6/b/6b2e52e2-5cb9-4360-92d6-5c0d9e435d09.webp?1792508285",
+      "scryfall_url": "https://scryfall.com/card/trk/229/cleveland-booker-empath?utm_source=api"
+    },
+    {
+      "name": "Dal R'El, Augment Orphan",
+      "image_url": "https://cards.scryfall.io/grid/front/0/d/0da52d3a-dd83-4662-8e6d-3f4d4d389c3d.webp?1792508298",
+      "scryfall_url": "https://scryfall.com/card/trk/231/dal-rel-augment-orphan?utm_source=api"
+    },
+    {
+      "name": "Phlox, Unorthodox Doctor",
+      "image_url": "https://cards.scryfall.io/grid/front/2/6/2695e76e-c27d-49fc-9ef2-d9eaff449f3d.webp?1792508387",
+      "scryfall_url": "https://scryfall.com/card/trk/250/phlox-unorthodox-doctor?utm_source=api"
+    },
+    {
+      "name": "The Doctor, EMH",
+      "image_url": "https://cards.scryfall.io/grid/front/8/f/8fbad0dd-5f74-40c0-9e3e-c06be8eabb14.webp?1792508313",
+      "scryfall_url": "https://scryfall.com/card/trk/234/the-doctor-emh?utm_source=api"
+    },
+    {
+      "name": "Locutus, the One Who Speaks",
+      "image_url": "https://cards.scryfall.io/grid/front/2/9/296f1127-14a0-42c4-9e4a-c0d929720748.webp?1792508366",
+      "scryfall_url": "https://scryfall.com/card/trk/245/locutus-the-one-who-speaks?utm_source=api"
+    },
+    {
+      "name": "Zero, Incorporeal Sensate",
+      "image_url": "https://cards.scryfall.io/grid/front/9/3/93f616fe-6906-4e5d-b9fe-b432cccdb0ec.webp?1792508418",
+      "scryfall_url": "https://scryfall.com/card/trk/258/zero-incorporeal-sensate?utm_source=api"
+    },
+    {
+      "name": "Elite Spellbinder",
+      "image_url": "https://cards.scryfall.io/grid/front/9/d/9d3a7998-ccac-45ad-a4e9-3a2cb057f63b.webp?1783927390",
+      "scryfall_url": "https://scryfall.com/card/stx/17/elite-spellbinder?utm_source=api"
+    },
+    {
+      "name": "Gray and Adira, Forever Joined",
+      "image_url": "https://cards.scryfall.io/grid/front/e/e/eede6822-c8bc-4344-81a9-bc608245d5b6.webp?1792508333",
+      "scryfall_url": "https://scryfall.com/card/trk/238/gray-and-adira-forever-joined?utm_source=api"
+    },
+    {
+      "name": "Saheeli, Jewel of Avishkar",
+      "image_url": "https://cards.scryfall.io/grid/front/2/8/28d84ef6-e190-46d4-882d-1cea5e111e2a.webp?1789644883",
+      "scryfall_url": "https://scryfall.com/card/fra/275/saheeli-jewel-of-avishkar?utm_source=api"
+    },
+    {
+      "name": "Doom Blade",
+      "image_url": "https://cards.scryfall.io/grid/front/5/d/5dcd0c4e-4047-47a2-8969-c62616d457c2.webp?1783903090",
+      "scryfall_url": "https://scryfall.com/card/msc/576/doom-blade?utm_source=api"
+    },
+    {
+      "name": "Spock, Always Your Friend",
+      "image_url": "https://cards.scryfall.io/grid/front/1/b/1be731d5-8b21-4883-91c0-dd9070b1eadd.webp?1792508391",
+      "scryfall_url": "https://scryfall.com/card/trk/253/spock-always-your-friend?utm_source=api"
+    },
+    {
+      "name": "Daniels, Temporal Agent",
+      "image_url": "https://cards.scryfall.io/grid/front/b/6/b64dd792-7dc7-4d22-9776-9b9e25e1173d.webp?1792508309",
+      "scryfall_url": "https://scryfall.com/card/trk/232/daniels-temporal-agent?utm_source=api"
+    },
+    {
+      "name": "Gravedigger",
+      "image_url": "https://cards.scryfall.io/grid/front/0/f/0fb714a0-e61b-4ccf-8de6-3a6bf87c8315.webp?1783932993",
+      "scryfall_url": "https://scryfall.com/card/m20/103/gravedigger?utm_source=api"
+    },
+    {
+      "name": "Vash, Freelance Archaeologist",
+      "image_url": "https://cards.scryfall.io/grid/front/d/1/d1f51765-f336-4ca2-a0f5-e42dc352c0fa.webp?1792508403",
+      "scryfall_url": "https://scryfall.com/card/trk/255/vash-freelance-archaeologist?utm_source=api"
+    },
+    {
+      "name": "Kirk, Commanding Officer",
+      "image_url": "https://cards.scryfall.io/grid/front/2/4/245d0430-0967-44f1-8c59-985104a8db30.webp?1792508356",
+      "scryfall_url": "https://scryfall.com/card/trk/243/kirk-commanding-officer?utm_source=api"
+    },
+    {
+      "name": "Worf, Honor-Bound Warrior",
+      "image_url": "https://cards.scryfall.io/grid/front/b/2/b2d1955f-e834-4157-a139-9b6ec94bcd2a.webp?1792508408",
+      "scryfall_url": "https://scryfall.com/card/trk/256/worf-honor-bound-warrior?utm_source=api"
+    },
+    {
+      "name": "D'Vana Tendi, Optimistic Ensign",
+      "image_url": "https://cards.scryfall.io/grid/front/2/0/206239ca-341a-4f07-8149-a24ccf20ee45.webp?1792508323",
+      "scryfall_url": "https://scryfall.com/card/trk/236/dvana-tendi-optimistic-ensign?utm_source=api"
+    },
+    {
+      "name": "Unexplored Territory",
+      "image_url": "https://cards.scryfall.io/grid/front/c/a/ca1e60f1-11a9-4bb8-9f6e-5b652b49c517.webp?1792591180",
+      "scryfall_url": "https://scryfall.com/card/trk/303/unexplored-territory?utm_source=api"
+    },
+    {
+      "name": "Evolving Wilds",
+      "image_url": "https://cards.scryfall.io/grid/front/6/e/6e01ec28-d815-47a8-ab0f-d383a4736ebe.webp?1793021295",
+      "scryfall_url": "https://scryfall.com/card/trc/527/evolving-wilds?utm_source=api"
+    },
+    {
+      "name": "Free Borg Revolutionaries",
+      "image_url": "https://cards.scryfall.io/grid/front/6/7/6711e910-e5a8-4602-9559-de5374bffff2.webp?1785981345",
+      "scryfall_url": "https://scryfall.com/card/trk/19/free-borg-revolutionaries?utm_source=api"
+    },
+    {
+      "name": "Humpback Whales",
+      "image_url": "https://cards.scryfall.io/grid/front/6/0/605263f0-08b6-4cc7-aba7-eb49850f8832.webp?1785981416",
+      "scryfall_url": "https://scryfall.com/card/trk/65/humpback-whales?utm_source=api"
+    },
+    {
+      "name": "Rogue Artificial Intelligence",
+      "image_url": "https://cards.scryfall.io/grid/front/e/d/edcce061-88c9-40bf-97f8-d0d3018e24dd.webp?1785981516",
+      "scryfall_url": "https://scryfall.com/card/trk/126/rogue-artificial-intelligence?utm_source=api"
+    },
+    {
+      "name": "Horta",
+      "image_url": "https://cards.scryfall.io/grid/front/a/b/abf44662-62ad-47fb-9cfe-6bed47133de5.webp?1785981533",
+      "scryfall_url": "https://scryfall.com/card/trk/152/horta?utm_source=api"
+    },
+    {
+      "name": "Cold-Blooded Crew",
+      "image_url": "https://cards.scryfall.io/grid/front/4/f/4f2d1830-baea-4735-b029-cb8c0b538d83.webp?1785981563",
+      "scryfall_url": "https://scryfall.com/card/trk/189/cold-blooded-crew?utm_source=api"
+    },
+    {
+      "name": "First Contact",
+      "image_url": "https://cards.scryfall.io/grid/front/5/4/5407e8f4-0c8e-4e66-9d2f-f22277aa38f4.webp?1785981580",
+      "scryfall_url": "https://scryfall.com/card/trk/199/first-contact?utm_source=api"
+    },
+    {
+      "name": "Something Worth Saving",
+      "image_url": "https://cards.scryfall.io/grid/front/0/2/02ee7817-40af-4fcf-a2df-eb218b669281.webp?1788878199",
+      "scryfall_url": "https://scryfall.com/card/fra/114/something-worth-saving?utm_source=api"
+    },
+    {
+      "name": "Cybernetic Specialist",
+      "image_url": "https://cards.scryfall.io/grid/front/b/1/b147f16e-a2d6-4d43-9213-9a2723b0d3ef.webp?1786005495",
+      "scryfall_url": "https://scryfall.com/card/trk/262/cybernetic-specialist?utm_source=api"
+    },
+    {
+      "name": "Insidious Roots",
+      "image_url": "https://cards.scryfall.io/grid/front/0/b/0bb91a22-2040-4a37-85f8-5f22de8c5907.webp?1783912846",
+      "scryfall_url": "https://scryfall.com/card/mkm/208/insidious-roots?utm_source=api"
+    },
+    {
+      "name": "Tea, Earl Grey, Hot",
+      "image_url": "https://cards.scryfall.io/grid/front/2/8/289e8ebe-ab0f-466b-a4e6-d5cf8411e724.webp?1792591098",
+      "scryfall_url": "https://scryfall.com/card/trk/269/tea-earl-grey-hot?utm_source=api"
+    },
+    {
+      "name": "Tricorder",
+      "image_url": "https://cards.scryfall.io/grid/front/3/c/3c872f02-80ac-49e3-a777-3526d35ad7cc.webp?1792508457",
+      "scryfall_url": "https://scryfall.com/card/trk/270/tricorder?utm_source=api"
+    },
+    {
+      "name": "Warp Core",
+      "image_url": "https://cards.scryfall.io/grid/front/d/e/de8e2bde-b368-4d10-8409-86f5da6997f6.webp?1792590999",
+      "scryfall_url": "https://scryfall.com/card/trk/274/warp-core?utm_source=api"
+    },
+    {
+      "name": "Suurok-Class Science Vessel",
+      "image_url": "https://cards.scryfall.io/grid/front/7/6/7608943e-329e-41f9-b098-a0a94b01e6a1.webp?1792739758",
+      "scryfall_url": "https://scryfall.com/card/trk/83/suurok-class-science-vessel?utm_source=api"
+    },
+    {
+      "name": "Rescue Girl, First Responder",
+      "image_url": "https://cards.scryfall.io/grid/front/6/9/699874e3-1ccf-4a6c-8371-61040de82d08.webp?1789645598",
+      "scryfall_url": "https://scryfall.com/card/fra/202/rescue-girl-first-responder?utm_source=api"
+    },
+    {
+      "name": "Way of the Pyromancer",
+      "image_url": "https://cards.scryfall.io/grid/front/c/1/c1a00020-7c14-4503-a057-5763704bb83e.webp?1788878311",
+      "scryfall_url": "https://scryfall.com/card/fra/254/way-of-the-pyromancer?utm_source=api"
+    }
+  ],
+  "sections": [
+    {
+      "title": "Star Trek Mechanics Overview",
+      "start_seconds": 0,
+      "end_seconds": 415,
+      "mentions": [
+        {
+          "names": [
+            "Seven of Nine"
+          ],
+          "approx_seconds": 124,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Hoshi Sato, Exolinguist"
+          ],
+          "approx_seconds": 165,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Assault Drone"
+          ],
+          "approx_seconds": 272,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "The Traveler"
+          ],
+          "approx_seconds": 295,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "The Borg Queen"
+          ],
+          "approx_seconds": 354,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Two-Color Signpost Uncommons",
+      "start_seconds": 415,
+      "end_seconds": 1120,
+      "mentions": [
+        {
+          "names": [
+            "Constable Odo"
+          ],
+          "approx_seconds": 424,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Hemmer, Fixing What Is Broken"
+          ],
+          "approx_seconds": 454,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Seven of Nine"
+          ],
+          "approx_seconds": 480,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Lore, Positronic Provocateur"
+          ],
+          "approx_seconds": 484,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "L'Rell, Fierce Visionary"
+          ],
+          "approx_seconds": 514,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Ragavan, Nimble Pilferer"
+          ],
+          "approx_seconds": 530,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "The Duras Sisters"
+          ],
+          "approx_seconds": 552,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Cleveland Booker, Empath"
+          ],
+          "approx_seconds": 592,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Dal R'El, Augment Orphan"
+          ],
+          "approx_seconds": 622,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Phlox, Unorthodox Doctor"
+          ],
+          "approx_seconds": 650,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "The Doctor, EMH"
+          ],
+          "approx_seconds": 668,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Locutus, the One Who Speaks"
+          ],
+          "approx_seconds": 693,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Zero, Incorporeal Sensate"
+          ],
+          "approx_seconds": 713,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Elite Spellbinder"
+          ],
+          "approx_seconds": 732,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Gray and Adira, Forever Joined"
+          ],
+          "approx_seconds": 755,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Saheeli, Jewel of Avishkar"
+          ],
+          "approx_seconds": 785,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Doom Blade"
+          ],
+          "approx_seconds": 792,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Spock, Always Your Friend"
+          ],
+          "approx_seconds": 860,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Daniels, Temporal Agent"
+          ],
+          "approx_seconds": 935,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Gravedigger"
+          ],
+          "approx_seconds": 950,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Vash, Freelance Archaeologist"
+          ],
+          "approx_seconds": 960,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Kirk, Commanding Officer"
+          ],
+          "approx_seconds": 982,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Worf, Honor-Bound Warrior"
+          ],
+          "approx_seconds": 1007,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "D'Vana Tendi, Optimistic Ensign"
+          ],
+          "approx_seconds": 1084,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "The Traveler"
+          ],
+          "approx_seconds": 1112,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Lands, Landcyclers, and Other Preview Cards",
+      "start_seconds": 1120,
+      "end_seconds": 1425,
+      "mentions": [
+        {
+          "names": [
+            "Unexplored Territory"
+          ],
+          "approx_seconds": 1139,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Evolving Wilds"
+          ],
+          "approx_seconds": 1147,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Free Borg Revolutionaries"
+          ],
+          "approx_seconds": 1223,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Humpback Whales"
+          ],
+          "approx_seconds": 1241,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Rogue Artificial Intelligence"
+          ],
+          "approx_seconds": 1253,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Horta"
+          ],
+          "approx_seconds": 1273,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Cold-Blooded Crew"
+          ],
+          "approx_seconds": 1283,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "First Contact"
+          ],
+          "approx_seconds": 1300,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Something Worth Saving"
+          ],
+          "approx_seconds": 1321,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Cybernetic Specialist"
+          ],
+          "approx_seconds": 1340,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Insidious Roots"
+          ],
+          "approx_seconds": 1347,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Tea, Earl Grey, Hot"
+          ],
+          "approx_seconds": 1356,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Tricorder"
+          ],
+          "approx_seconds": 1372,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Warp Core"
+          ],
+          "approx_seconds": 1378,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Suurok-Class Science Vessel"
+          ],
+          "approx_seconds": 1402,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Documentaries, Films, and Survivor Chat",
+      "start_seconds": 1425,
+      "end_seconds": 2050,
+      "mentions": []
+    },
+    {
+      "title": "Marching Band State Finals and CABS Deck Analogy",
+      "start_seconds": 2050,
+      "end_seconds": 2335,
+      "mentions": [
+        {
+          "names": [
+            "Rescue Girl, First Responder"
+          ],
+          "approx_seconds": 2102,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Way of the Pyromancer"
+          ],
+          "approx_seconds": 2104,
+          "certainty": "confirmed"
+        }
+      ]
+    }
+  ]
+}
