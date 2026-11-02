@@ -1,0 +1,1085 @@
+{
+  "slug": "503",
+  "title": "TRK Crash Course - Episode 503",
+  "feed_date": "2026-11-02",
+  "unresolved_count": 0,
+  "cards": [
+    {
+      "name": "Oberth-Class Starship",
+      "image_url": "https://cards.scryfall.io/grid/front/7/e/7efe3788-ecf7-4b56-8970-bc324092941c.webp?1793361187",
+      "scryfall_url": "https://scryfall.com/card/trk/26/oberth-class-starship?utm_source=api"
+    },
+    {
+      "name": "Captain James T. Kirk",
+      "image_url": "https://cards.scryfall.io/grid/front/4/0/40a0466d-20bb-4ed5-858d-947fb9144580.webp?1784036779",
+      "scryfall_url": "https://scryfall.com/card/trk/142/captain-james-t-kirk?utm_source=api"
+    },
+    {
+      "name": "Captain Jean-Luc Picard",
+      "image_url": "https://cards.scryfall.io/grid/front/b/7/b7114271-eb05-41e2-ad96-a34f53492312.webp?1792508148",
+      "scryfall_url": "https://scryfall.com/card/trk/7/captain-jean-luc-picard?utm_source=api"
+    },
+    {
+      "name": "Open Communications",
+      "image_url": "https://cards.scryfall.io/grid/front/8/e/8eeec269-13f0-4923-9f13-e995acd73e00.webp?1786396013",
+      "scryfall_url": "https://scryfall.com/card/trk/76/open-communications?utm_source=api"
+    },
+    {
+      "name": "Seven of Nine",
+      "image_url": "https://cards.scryfall.io/grid/front/6/2/6204cfdb-6fb4-4030-96b6-9306c8266bcf.webp?1784036800",
+      "scryfall_url": "https://scryfall.com/card/trk/252/seven-of-nine?utm_source=api"
+    },
+    {
+      "name": "Command Decision",
+      "image_url": "https://cards.scryfall.io/grid/front/9/f/9f1f789b-5c08-4a4d-b3a3-4d51ad9f1a4d.webp?1785981318",
+      "scryfall_url": "https://scryfall.com/card/trk/8/command-decision?utm_source=api"
+    },
+    {
+      "name": "Hoshi Sato, Exolinguist",
+      "image_url": "https://cards.scryfall.io/grid/front/2/4/24589f4d-c530-4f6a-b2d0-450ef70fca71.webp?1784065562",
+      "scryfall_url": "https://scryfall.com/card/trk/64/hoshi-sato-exolinguist?utm_source=api"
+    },
+    {
+      "name": "Deep Space Scan",
+      "image_url": "https://cards.scryfall.io/grid/front/1/5/15ffeda3-28ac-4adf-9844-d7b051aae227.webp?1792508172",
+      "scryfall_url": "https://scryfall.com/card/trk/53/deep-space-scan?utm_source=api"
+    },
+    {
+      "name": "U.S.S. Enterprise-D, Galaxy-Class",
+      "image_url": "https://cards.scryfall.io/grid/front/0/5/057a4413-6a17-491e-bfd7-6cd427b1a442.webp?1784078038",
+      "scryfall_url": "https://scryfall.com/card/trk/273/uss-enterprise-d-galaxy-class?utm_source=api"
+    },
+    {
+      "name": "A Good Day to Die",
+      "image_url": "https://cards.scryfall.io/grid/front/e/2/e2b350b2-0eda-4c2b-b9d6-b58ab4848545.webp?1785981483",
+      "scryfall_url": "https://scryfall.com/card/trk/111/a-good-day-to-die?utm_source=api"
+    },
+    {
+      "name": "Locutus, the One Who Speaks",
+      "image_url": "https://cards.scryfall.io/grid/front/2/9/296f1127-14a0-42c4-9e4a-c0d929720748.webp?1792508366",
+      "scryfall_url": "https://scryfall.com/card/trk/245/locutus-the-one-who-speaks?utm_source=api"
+    },
+    {
+      "name": "Warp Core",
+      "image_url": "https://cards.scryfall.io/grid/front/d/e/de8e2bde-b368-4d10-8409-86f5da6997f6.webp?1792590999",
+      "scryfall_url": "https://scryfall.com/card/trk/274/warp-core?utm_source=api"
+    },
+    {
+      "name": "Class-F Shuttlecraft",
+      "image_url": "https://cards.scryfall.io/grid/front/5/5/55e0a183-4145-472f-8bed-a1f247febe06.webp?1793361394",
+      "scryfall_url": "https://scryfall.com/card/trk/259/class-f-shuttlecraft?utm_source=api"
+    },
+    {
+      "name": "Phlox, Unorthodox Doctor",
+      "image_url": "https://cards.scryfall.io/grid/front/2/6/2695e76e-c27d-49fc-9ef2-d9eaff449f3d.webp?1792508387",
+      "scryfall_url": "https://scryfall.com/card/trk/250/phlox-unorthodox-doctor?utm_source=api"
+    },
+    {
+      "name": "The Doctor, EMH",
+      "image_url": "https://cards.scryfall.io/grid/front/8/f/8fbad0dd-5f74-40c0-9e3e-c06be8eabb14.webp?1792508313",
+      "scryfall_url": "https://scryfall.com/card/trk/234/the-doctor-emh?utm_source=api"
+    },
+    {
+      "name": "Assault Drone",
+      "image_url": "https://cards.scryfall.io/grid/front/5/c/5ca2da7a-afbf-4b32-8ff6-ae899b9f70ad.webp?1785981435",
+      "scryfall_url": "https://scryfall.com/card/trk/92/assault-drone?utm_source=api"
+    },
+    {
+      "name": "Obsidian Order Operative",
+      "image_url": "https://cards.scryfall.io/grid/front/1/7/17a7b0a8-baaf-4e6a-8536-f511c796a713.webp?1793361289",
+      "scryfall_url": "https://scryfall.com/card/trk/120/obsidian-order-operative?utm_source=api"
+    },
+    {
+      "name": "U.S.S. Excelsior, Cutting Edge",
+      "image_url": "https://cards.scryfall.io/grid/front/d/e/de62b452-3780-4eeb-8163-f44176495615.webp?1793100663",
+      "scryfall_url": "https://scryfall.com/card/trk/44/uss-excelsior-cutting-edge?utm_source=api"
+    },
+    {
+      "name": "Brad Boimler, Eager Ensign",
+      "image_url": "https://cards.scryfall.io/grid/front/a/6/a6bf1525-2212-46d0-ad4d-1dbaa2e3b3cd.webp?1784036739",
+      "scryfall_url": "https://scryfall.com/card/trk/5/brad-boimler-eager-ensign?utm_source=api"
+    },
+    {
+      "name": "Conquest Mission",
+      "image_url": "https://cards.scryfall.io/grid/front/f/9/f91755d7-6fb9-4caf-b4b4-f21ed5572d52.webp?1792750872",
+      "scryfall_url": "https://scryfall.com/card/trk/10/conquest-mission?utm_source=api"
+    },
+    {
+      "name": "There's Coffee in that Nebula",
+      "image_url": "https://cards.scryfall.io/grid/front/8/d/8dd7e0c6-84f6-4570-af93-4c64e78c2868.webp?1792668331",
+      "scryfall_url": "https://scryfall.com/card/trk/40/theres-coffee-in-that-nebula?utm_source=api"
+    },
+    {
+      "name": "Shields Up!",
+      "image_url": "https://cards.scryfall.io/grid/front/0/b/0b60c9af-8ea9-491d-a4a4-226a2143e7f3.webp?1785981369",
+      "scryfall_url": "https://scryfall.com/card/trk/35/shields-up!?utm_source=api"
+    },
+    {
+      "name": "Malfunctioning Holodeck",
+      "image_url": "https://cards.scryfall.io/grid/front/0/f/0faeffee-bb07-4b9d-8cdd-e9731bbd2396.webp?1785981349",
+      "scryfall_url": "https://scryfall.com/card/trk/22/malfunctioning-holodeck?utm_source=api"
+    },
+    {
+      "name": "Consider the Prime Directive",
+      "image_url": "https://cards.scryfall.io/grid/front/4/e/4e8f75b8-cca7-4ed3-90db-bcac02e74611.webp?1784036751",
+      "scryfall_url": "https://scryfall.com/card/trk/51/consider-the-prime-directive?utm_source=api"
+    },
+    {
+      "name": "Make It So",
+      "image_url": "https://cards.scryfall.io/grid/front/7/1/7149df19-4833-47ca-8add-b897f55b930c.webp?1793013541",
+      "scryfall_url": "https://scryfall.com/card/trk/71/make-it-so?utm_source=api"
+    },
+    {
+      "name": "Suurok-Class Science Vessel",
+      "image_url": "https://cards.scryfall.io/grid/front/7/6/7608943e-329e-41f9-b098-a0a94b01e6a1.webp?1792739758",
+      "scryfall_url": "https://scryfall.com/card/trk/83/suurok-class-science-vessel?utm_source=api"
+    },
+    {
+      "name": "Energize",
+      "image_url": "https://cards.scryfall.io/grid/front/2/4/24e72db3-a8d9-4553-92fe-ba6e40c4f62e.webp?1792668391",
+      "scryfall_url": "https://scryfall.com/card/trk/56/energize?utm_source=api"
+    },
+    {
+      "name": "Jett Reno, Problem Solver",
+      "image_url": "https://cards.scryfall.io/grid/front/6/d/6dc34d44-397a-4dda-a8e3-0c2ff7da110f.webp?1793511776",
+      "scryfall_url": "https://scryfall.com/card/trk/67/jett-reno-problem-solver?utm_source=api"
+    },
+    {
+      "name": "V'Ger, the Intruder",
+      "image_url": "https://cards.scryfall.io/grid/front/b/0/b082d454-d331-4960-8120-754f107ffa42.webp?1785981430",
+      "scryfall_url": "https://scryfall.com/card/trk/87/vger-the-intruder?utm_source=api"
+    },
+    {
+      "name": "Zefram Cochrane, Warp Pioneer",
+      "image_url": "https://cards.scryfall.io/grid/front/4/3/43ce2e91-9dce-4e86-a4b8-8d21e4e368ea.webp?1793013553",
+      "scryfall_url": "https://scryfall.com/card/trk/90/zefram-cochrane-warp-pioneer?utm_source=api"
+    },
+    {
+      "name": "Interstellar Effigy",
+      "image_url": "https://cards.scryfall.io/grid/front/4/b/4b7d505f-2a6b-4525-87c7-19e06d49c9df.webp?1793361241",
+      "scryfall_url": "https://scryfall.com/card/trk/66/interstellar-effigy?utm_source=api"
+    },
+    {
+      "name": "Guidance Failure",
+      "image_url": "https://cards.scryfall.io/grid/front/8/6/86b790e6-3c99-4a95-8327-eb90ed9380f2.webp?1785981409",
+      "scryfall_url": "https://scryfall.com/card/trk/60/guidance-failure?utm_source=api"
+    },
+    {
+      "name": "In the Pale Moonlight",
+      "image_url": "https://cards.scryfall.io/grid/front/4/7/47c8262c-e0c6-4c1a-b1c1-3b5fe5252a9c.webp?1784065713",
+      "scryfall_url": "https://scryfall.com/card/trk/117/in-the-pale-moonlight?utm_source=api"
+    },
+    {
+      "name": "Resistance Is Futile",
+      "image_url": "https://cards.scryfall.io/grid/front/8/1/81d88257-466d-4729-862f-591885b3d875.webp?1785981518",
+      "scryfall_url": "https://scryfall.com/card/trk/125/resistance-is-futile?utm_source=api"
+    },
+    {
+      "name": "Commander Raffi Musiker",
+      "image_url": "https://cards.scryfall.io/grid/front/7/e/7e60bd56-3da1-4211-b790-320471eef242.webp?1793013565",
+      "scryfall_url": "https://scryfall.com/card/trk/100/commander-raffi-musiker?utm_source=api"
+    },
+    {
+      "name": "Bat'leth",
+      "image_url": "https://cards.scryfall.io/grid/front/8/8/888e6e0f-43c3-4516-88ff-8a8d814478d4.webp?1785981448",
+      "scryfall_url": "https://scryfall.com/card/trk/94/batleth?utm_source=api"
+    },
+    {
+      "name": "Eject the Warp Core",
+      "image_url": "https://cards.scryfall.io/grid/front/0/4/04a479be-8093-4775-a5d9-8b0e1683bf12.webp?1785981475",
+      "scryfall_url": "https://scryfall.com/card/trk/105/eject-the-warp-core?utm_source=api"
+    },
+    {
+      "name": "He's Dead, Jim",
+      "image_url": "https://cards.scryfall.io/grid/front/2/c/2c309b0d-94b4-405e-be6c-18b407323e51.webp?1785981492",
+      "scryfall_url": "https://scryfall.com/card/trk/114/hes-dead-jim?utm_source=api"
+    },
+    {
+      "name": "Fugitive Listener",
+      "image_url": "https://cards.scryfall.io/grid/front/b/d/bd04c738-b4e3-481e-9a68-d257524bf40e.webp?1793361283",
+      "scryfall_url": "https://scryfall.com/card/trk/107/fugitive-listener?utm_source=api"
+    },
+    {
+      "name": "Pattern Buffer Preservation",
+      "image_url": "https://cards.scryfall.io/grid/front/2/3/23166580-9676-4025-916b-864568c2e59d.webp?1793361304",
+      "scryfall_url": "https://scryfall.com/card/trk/123/pattern-buffer-preservation?utm_source=api"
+    },
+    {
+      "name": "Plasma Cascade",
+      "image_url": "https://cards.scryfall.io/grid/front/3/c/3c786a2f-3de4-4b24-a3a0-15b1f2a07324.webp?1785981557",
+      "scryfall_url": "https://scryfall.com/card/trk/164/plasma-cascade?utm_source=api"
+    },
+    {
+      "name": "Planetary Bombardment",
+      "image_url": "https://cards.scryfall.io/grid/front/4/d/4d9c39ce-f598-48d1-afa0-22f9513f1483.webp?1793013596",
+      "scryfall_url": "https://scryfall.com/card/trk/162/planetary-bombardment?utm_source=api"
+    },
+    {
+      "name": "Transporter Malfunction",
+      "image_url": "https://cards.scryfall.io/grid/front/8/5/85b108c3-00b5-4dfb-90de-57fa483c4926.webp?1793274273",
+      "scryfall_url": "https://scryfall.com/card/trk/178/transporter-malfunction?utm_source=api"
+    },
+    {
+      "name": "Khaaaaaaaaaaaannn!",
+      "image_url": "https://cards.scryfall.io/grid/front/2/2/22c60c17-74ec-460b-bf7a-e56e42239826.webp?1785981536",
+      "scryfall_url": "https://scryfall.com/card/trk/154/khaaaaaaaaaaaannn!?utm_source=api"
+    },
+    {
+      "name": "Academy Instructor",
+      "image_url": "https://cards.scryfall.io/grid/front/6/6/660ec8bc-dc03-4b42-84f3-091c19e2a853.webp?1793188005",
+      "scryfall_url": "https://scryfall.com/card/trk/137/academy-instructor?utm_source=api"
+    },
+    {
+      "name": "Munitions Enthusiast",
+      "image_url": "https://cards.scryfall.io/grid/front/6/d/6d73bb1c-39e3-429c-b6bb-96dae2254708.webp?1785981544",
+      "scryfall_url": "https://scryfall.com/card/trk/158/munitions-enthusiast?utm_source=api"
+    },
+    {
+      "name": "Silicate Surveyor",
+      "image_url": "https://cards.scryfall.io/grid/front/6/3/6359ab5d-4151-4a0c-af13-d59c1b381bb0.webp?1786005521",
+      "scryfall_url": "https://scryfall.com/card/trk/172/silicate-surveyor?utm_source=api"
+    },
+    {
+      "name": "Boarding Action",
+      "image_url": "https://cards.scryfall.io/grid/front/3/a/3a0d33cd-f81c-4950-81ed-9536061eca8a.webp?1793361310",
+      "scryfall_url": "https://scryfall.com/card/trk/139/boarding-action?utm_source=api"
+    },
+    {
+      "name": "Amok Time",
+      "image_url": "https://cards.scryfall.io/grid/front/d/3/d31447b6-484f-4dda-b6af-ab068a84f896.webp?1787205814",
+      "scryfall_url": "https://scryfall.com/card/trk/183/amok-time?utm_source=api"
+    },
+    {
+      "name": "Hologram Stalker",
+      "image_url": "https://cards.scryfall.io/grid/front/6/b/6bd8a87b-ca7a-4a15-b96f-1a673ee44f3e.webp?1792668500",
+      "scryfall_url": "https://scryfall.com/card/trk/202/hologram-stalker?utm_source=api"
+    },
+    {
+      "name": "U.S.S. Voyager, Lone Wanderer",
+      "image_url": "https://cards.scryfall.io/grid/front/a/a/aaf8a0b2-c6cb-41cb-913d-7ae1d75e555d.webp?1793274284",
+      "scryfall_url": "https://scryfall.com/card/trk/222/uss-voyager-lone-wanderer?utm_source=api"
+    },
+    {
+      "name": "David and Carol Marcus, Creators",
+      "image_url": "https://cards.scryfall.io/grid/front/5/5/55d21155-647e-4892-b349-86b8d4e6d9b9.webp?1793188281",
+      "scryfall_url": "https://scryfall.com/card/trk/193/david-and-carol-marcus-creators?utm_source=api"
+    },
+    {
+      "name": "Temporal Conqueror",
+      "image_url": "https://cards.scryfall.io/grid/front/b/0/b0bb51a7-1ae2-45d0-8be9-5454a3c8f751.webp?1793361377",
+      "scryfall_url": "https://scryfall.com/card/trk/219/temporal-conqueror?utm_source=api"
+    },
+    {
+      "name": "Final Frontier",
+      "image_url": "https://cards.scryfall.io/grid/front/3/4/34ea6df3-36e3-42c5-a4ed-a4cd18ec6dd0.webp?1793013607",
+      "scryfall_url": "https://scryfall.com/card/trk/198/final-frontier?utm_source=api"
+    },
+    {
+      "name": "First Contact",
+      "image_url": "https://cards.scryfall.io/grid/front/5/4/5407e8f4-0c8e-4e66-9d2f-f22277aa38f4.webp?1785981580",
+      "scryfall_url": "https://scryfall.com/card/trk/199/first-contact?utm_source=api"
+    },
+    {
+      "name": "Cold-Blooded Crew",
+      "image_url": "https://cards.scryfall.io/grid/front/4/f/4f2d1830-baea-4735-b029-cb8c0b538d83.webp?1785981563",
+      "scryfall_url": "https://scryfall.com/card/trk/189/cold-blooded-crew?utm_source=api"
+    },
+    {
+      "name": "Free Borg Revolutionaries",
+      "image_url": "https://cards.scryfall.io/grid/front/6/7/6711e910-e5a8-4602-9559-de5374bffff2.webp?1785981345",
+      "scryfall_url": "https://scryfall.com/card/trk/19/free-borg-revolutionaries?utm_source=api"
+    },
+    {
+      "name": "Horta",
+      "image_url": "https://cards.scryfall.io/grid/front/a/b/abf44662-62ad-47fb-9cfe-6bed47133de5.webp?1785981533",
+      "scryfall_url": "https://scryfall.com/card/trk/152/horta?utm_source=api"
+    },
+    {
+      "name": "Humpback Whales",
+      "image_url": "https://cards.scryfall.io/grid/front/6/0/605263f0-08b6-4cc7-aba7-eb49850f8832.webp?1785981416",
+      "scryfall_url": "https://scryfall.com/card/trk/65/humpback-whales?utm_source=api"
+    },
+    {
+      "name": "Rogue Artificial Intelligence",
+      "image_url": "https://cards.scryfall.io/grid/front/e/d/edcce061-88c9-40bf-97f8-d0d3018e24dd.webp?1785981516",
+      "scryfall_url": "https://scryfall.com/card/trk/126/rogue-artificial-intelligence?utm_source=api"
+    },
+    {
+      "name": "Set Phasers to . . .",
+      "image_url": "https://cards.scryfall.io/grid/front/5/4/54dbf416-973d-46c8-b9be-e863283d328b.webp?1784036750",
+      "scryfall_url": "https://scryfall.com/card/trk/34/set-phasers-to-?utm_source=api"
+    },
+    {
+      "name": "Federation Probe",
+      "image_url": "https://cards.scryfall.io/grid/front/f/9/f988ba84-fc78-41a2-b2f2-eebf78cee591.webp?1785981405",
+      "scryfall_url": "https://scryfall.com/card/trk/59/federation-probe?utm_source=api"
+    },
+    {
+      "name": "Cantankerous Captain",
+      "image_url": "https://cards.scryfall.io/grid/front/2/c/2c053ec5-d1ea-4526-8a0d-e4dfafb8ecdf.webp?1786005671",
+      "scryfall_url": "https://scryfall.com/card/trk/141/cantankerous-captain?utm_source=api"
+    },
+    {
+      "name": "Battle-Scarred Survivalist",
+      "image_url": "https://cards.scryfall.io/grid/front/c/5/c567253e-a2ee-45de-b3c6-3aeafbf8237b.webp?1785981454",
+      "scryfall_url": "https://scryfall.com/card/trk/95/battle-scarred-survivalist?utm_source=api"
+    },
+    {
+      "name": "Moopsy",
+      "image_url": "https://cards.scryfall.io/grid/front/d/f/dfbaf597-6be2-4aa0-88ae-cc4c94878add.webp?1785981590",
+      "scryfall_url": "https://scryfall.com/card/trk/207/moopsy?utm_source=api"
+    },
+    {
+      "name": "Astute Terraformer",
+      "image_url": "https://cards.scryfall.io/grid/front/2/e/2ef7c30c-3ee6-413d-bd24-476322f36cb8.webp?1793361354",
+      "scryfall_url": "https://scryfall.com/card/trk/184/astute-terraformer?utm_source=api"
+    },
+    {
+      "name": "Marooned",
+      "image_url": "https://cards.scryfall.io/grid/front/0/8/0820a78e-e392-423c-9d62-ddfda5cb3f03.webp?1785981422",
+      "scryfall_url": "https://scryfall.com/card/trk/72/marooned?utm_source=api"
+    },
+    {
+      "name": "Andromedan Automatons",
+      "image_url": "https://cards.scryfall.io/grid/front/f/c/fc386662-0fe3-432f-85a8-9a06e1274245.webp?1793361152",
+      "scryfall_url": "https://scryfall.com/card/trk/2/andromedan-automatons?utm_source=api"
+    },
+    {
+      "name": "Shuttle Ace",
+      "image_url": "https://cards.scryfall.io/grid/front/5/5/559f838a-24ac-4f18-8c40-23cfde6f65cc.webp?1786005528",
+      "scryfall_url": "https://scryfall.com/card/trk/36/shuttle-ace?utm_source=api"
+    },
+    {
+      "name": "Vash, Freelance Archaeologist",
+      "image_url": "https://cards.scryfall.io/grid/front/d/1/d1f51765-f336-4ca2-a0f5-e42dc352c0fa.webp?1792508403",
+      "scryfall_url": "https://scryfall.com/card/trk/255/vash-freelance-archaeologist?utm_source=api"
+    },
+    {
+      "name": "Constable Odo",
+      "image_url": "https://cards.scryfall.io/grid/front/3/d/3df582e4-3bfb-4413-9b39-898f33a5c1fd.webp?1792508297",
+      "scryfall_url": "https://scryfall.com/card/trk/230/constable-odo?utm_source=api"
+    }
+  ],
+  "sections": [
+    {
+      "title": "Introduction & Star Trek Limited Overview",
+      "start_seconds": 0,
+      "end_seconds": 445,
+      "mentions": [
+        {
+          "names": [
+            "Oberth-Class Starship"
+          ],
+          "approx_seconds": 43,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Captain James T. Kirk"
+          ],
+          "approx_seconds": 63,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Captain Jean-Luc Picard"
+          ],
+          "approx_seconds": 115,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Set Mechanics: Beam Me Up, Dilemma, Federation, Strange New Worlds, Station",
+      "start_seconds": 445,
+      "end_seconds": 1040,
+      "mentions": [
+        {
+          "names": [
+            "Open Communications"
+          ],
+          "approx_seconds": 486,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Seven of Nine"
+          ],
+          "approx_seconds": 545,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Command Decision"
+          ],
+          "approx_seconds": 555,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Hoshi Sato, Exolinguist"
+          ],
+          "approx_seconds": 652,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Deep Space Scan"
+          ],
+          "approx_seconds": 754,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "U.S.S. Enterprise-D, Galaxy-Class"
+          ],
+          "approx_seconds": 770,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Archetype and Color Pair Overviews",
+      "start_seconds": 1040,
+      "end_seconds": 1270,
+      "mentions": [
+        {
+          "names": [
+            "A Good Day to Die"
+          ],
+          "approx_seconds": 1098,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Ethan's Format Truths",
+      "start_seconds": 1270,
+      "end_seconds": 1620,
+      "mentions": [
+        {
+          "names": [
+            "Locutus, the One Who Speaks"
+          ],
+          "approx_seconds": 1356,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Warp Core"
+          ],
+          "approx_seconds": 1545,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Class-F Shuttlecraft"
+          ],
+          "approx_seconds": 1548,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Ben's Format Truths and Archetype Tier List",
+      "start_seconds": 1620,
+      "end_seconds": 2230,
+      "mentions": [
+        {
+          "names": [
+            "Phlox, Unorthodox Doctor"
+          ],
+          "approx_seconds": 1948,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "The Doctor, EMH"
+          ],
+          "approx_seconds": 1980,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Assault Drone"
+          ],
+          "approx_seconds": 2075,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Locutus, the One Who Speaks"
+          ],
+          "approx_seconds": 2084,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Obsidian Order Operative"
+          ],
+          "approx_seconds": 2225,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "White: Top Uncommons & Commons",
+      "start_seconds": 2230,
+      "end_seconds": 2665,
+      "mentions": [
+        {
+          "names": [
+            "U.S.S. Excelsior, Cutting Edge"
+          ],
+          "approx_seconds": 2285,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Brad Boimler, Eager Ensign"
+          ],
+          "approx_seconds": 2340,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Conquest Mission"
+          ],
+          "approx_seconds": 2410,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "There's Coffee in that Nebula"
+          ],
+          "approx_seconds": 2480,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Open Communications"
+          ],
+          "approx_seconds": 2505,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Locutus, the One Who Speaks"
+          ],
+          "approx_seconds": 2535,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Shields Up!"
+          ],
+          "approx_seconds": 2560,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Command Decision"
+          ],
+          "approx_seconds": 2585,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Malfunctioning Holodeck"
+          ],
+          "approx_seconds": 2618,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Oberth-Class Starship"
+          ],
+          "approx_seconds": 2640,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Blue: Top Uncommons & Commons",
+      "start_seconds": 2665,
+      "end_seconds": 3120,
+      "mentions": [
+        {
+          "names": [
+            "Consider the Prime Directive"
+          ],
+          "approx_seconds": 2715,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Make It So"
+          ],
+          "approx_seconds": 2730,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Suurok-Class Science Vessel"
+          ],
+          "approx_seconds": 2750,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Energize"
+          ],
+          "approx_seconds": 2795,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Jett Reno, Problem Solver"
+          ],
+          "approx_seconds": 2868,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "V'Ger, the Intruder"
+          ],
+          "approx_seconds": 2920,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Hoshi Sato, Exolinguist"
+          ],
+          "approx_seconds": 2962,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Zefram Cochrane, Warp Pioneer"
+          ],
+          "approx_seconds": 2990,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Interstellar Effigy"
+          ],
+          "approx_seconds": 3034,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Guidance Failure"
+          ],
+          "approx_seconds": 3110,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Black: Top Uncommons & Commons",
+      "start_seconds": 3120,
+      "end_seconds": 3480,
+      "mentions": [
+        {
+          "names": [
+            "In the Pale Moonlight"
+          ],
+          "approx_seconds": 3220,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Resistance Is Futile"
+          ],
+          "approx_seconds": 3258,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Commander Raffi Musiker"
+          ],
+          "approx_seconds": 3277,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Bat'leth"
+          ],
+          "approx_seconds": 3305,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Eject the Warp Core"
+          ],
+          "approx_seconds": 3340,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "He's Dead, Jim"
+          ],
+          "approx_seconds": 3360,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Fugitive Listener"
+          ],
+          "approx_seconds": 3373,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Pattern Buffer Preservation"
+          ],
+          "approx_seconds": 3460,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Red: Top Uncommons & Commons",
+      "start_seconds": 3480,
+      "end_seconds": 3780,
+      "mentions": [
+        {
+          "names": [
+            "Plasma Cascade"
+          ],
+          "approx_seconds": 3505,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Planetary Bombardment"
+          ],
+          "approx_seconds": 3528,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Transporter Malfunction"
+          ],
+          "approx_seconds": 3600,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Khaaaaaaaaaaaannn!"
+          ],
+          "approx_seconds": 3624,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Academy Instructor"
+          ],
+          "approx_seconds": 3640,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Munitions Enthusiast"
+          ],
+          "approx_seconds": 3672,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Silicate Surveyor"
+          ],
+          "approx_seconds": 3690,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Boarding Action"
+          ],
+          "approx_seconds": 3740,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Green: Top Uncommons & Commons",
+      "start_seconds": 3780,
+      "end_seconds": 4085,
+      "mentions": [
+        {
+          "names": [
+            "Amok Time"
+          ],
+          "approx_seconds": 3824,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Hologram Stalker"
+          ],
+          "approx_seconds": 3848,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "U.S.S. Voyager, Lone Wanderer"
+          ],
+          "approx_seconds": 3895,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "David and Carol Marcus, Creators"
+          ],
+          "approx_seconds": 3922,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Temporal Conqueror"
+          ],
+          "approx_seconds": 3945,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Final Frontier"
+          ],
+          "approx_seconds": 3998,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "V'Ger, the Intruder"
+          ],
+          "approx_seconds": 4028,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Colorless Artifacts & Spacecraft",
+      "start_seconds": 4085,
+      "end_seconds": 4250,
+      "mentions": [
+        {
+          "names": [
+            "Warp Core"
+          ],
+          "approx_seconds": 4088,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Class-F Shuttlecraft"
+          ],
+          "approx_seconds": 4120,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Sleeper Commons",
+      "start_seconds": 4250,
+      "end_seconds": 5070,
+      "mentions": [
+        {
+          "names": [
+            "First Contact"
+          ],
+          "approx_seconds": 4260,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Cold-Blooded Crew"
+          ],
+          "approx_seconds": 4285,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Free Borg Revolutionaries"
+          ],
+          "approx_seconds": 4285,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Horta"
+          ],
+          "approx_seconds": 4285,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Humpback Whales"
+          ],
+          "approx_seconds": 4285,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Rogue Artificial Intelligence"
+          ],
+          "approx_seconds": 4285,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Set Phasers to . . ."
+          ],
+          "approx_seconds": 4390,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Federation Probe"
+          ],
+          "approx_seconds": 4448,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Guidance Failure"
+          ],
+          "approx_seconds": 4485,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Make It So"
+          ],
+          "approx_seconds": 4488,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Cantankerous Captain"
+          ],
+          "approx_seconds": 4535,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Assault Drone"
+          ],
+          "approx_seconds": 4590,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Battle-Scarred Survivalist"
+          ],
+          "approx_seconds": 4604,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Moopsy"
+          ],
+          "approx_seconds": 4648,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Astute Terraformer"
+          ],
+          "approx_seconds": 4672,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Planetary Bombardment"
+          ],
+          "approx_seconds": 4748,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Obsidian Order Operative"
+          ],
+          "approx_seconds": 4793,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Fugitive Listener"
+          ],
+          "approx_seconds": 4852,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Open Communications"
+          ],
+          "approx_seconds": 4860,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Marooned"
+          ],
+          "approx_seconds": 4872,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Andromedan Automatons"
+          ],
+          "approx_seconds": 4910,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Shuttle Ace"
+          ],
+          "approx_seconds": 4975,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Top Multicolor Uncommons",
+      "start_seconds": 5070,
+      "end_seconds": 5310,
+      "mentions": [
+        {
+          "names": [
+            "Vash, Freelance Archaeologist"
+          ],
+          "approx_seconds": 5085,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Locutus, the One Who Speaks"
+          ],
+          "approx_seconds": 5105,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Seven of Nine"
+          ],
+          "approx_seconds": 5122,
+          "certainty": "confirmed"
+        },
+        {
+          "names": [
+            "Constable Odo"
+          ],
+          "approx_seconds": 5130,
+          "certainty": "confirmed"
+        }
+      ]
+    },
+    {
+      "title": "Wrap-Up, Reality Fracture Transitions, & Outro",
+      "start_seconds": 5310,
+      "end_seconds": 5462,
+      "mentions": []
+    }
+  ]
+}
